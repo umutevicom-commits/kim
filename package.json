@@ -1,0 +1,11 @@
+{
+  "name": "kim-milyoner-olmak-ister",
+  "private": true,
+  "scripts": {
+    "build": "python3 python/build.py",
+    "test": "node -e \"const fs=require('fs');const d=JSON.parse(fs.readFileSync('questions.json','utf8'));let ok=true;for(const q of d.questions){if(!q.options.includes(q.correct)||q.options.length!==4||new Set(q.options).size!==4)ok=false;}console.log(ok?'All questions valid':'INVALID');process.exit(ok?0:1)\""
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.110.7"
+  }
+}

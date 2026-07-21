@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#0a1628" />
+
+  <title>Kim Milyoner Olmak İster? - Bilgi Yarışması</title>
+  <meta name="description" content="Kim Milyoner Olmak İster? 15 soru, 3 joker ve 10.000.000 TL büyük ödül. Gerçek televizyon yarışması hissi. Tamamen ücretsiz, offline oynanabilir." />
+  <meta name="keywords" content="kim milyoner olmak ister, bilgi yarışması, milyoner, quiz, oyun, trivia" />
+  <meta name="author" content="Kim Milyoner Olmak İster" />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://example.github.io/kim-milyoner/" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Kim Milyoner Olmak İster?" />
+  <meta property="og:description" content="15 soru, 3 joker, 10.000.000 TL. Gerçek yarışma deneyimi." />
+  <meta property="og:image" content="assets/icons/og-image.svg" />
+  <meta property="og:locale" content="tr_TR" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Kim Milyoner Olmak İster?" />
+  <meta name="twitter:description" content="15 soru, 3 joker, 10.000.000 TL. Gerçek yarışma deneyimi." />
+  <meta name="twitter:image" content="assets/icons/og-image.svg" />
+
+  <!-- PWA -->
+  <link rel="manifest" href="manifest.json" />
+  <link rel="apple-touch-icon" href="assets/icons/icon-192.svg" />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Orbitron:wght@500;700;900&display=swap" rel="stylesheet" />
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" referrerpolicy="no-referrer" />
+
+  <!-- App CSS -->
+  <link rel="stylesheet" href="assets/css/styles.css" />
+
+  <!-- JSON-LD -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Kim Milyoner Olmak İster?",
+    "description": "15 soruluk bilgi yarışması. 10.000.000 TL büyük ödül.",
+    "inLanguage": "tr",
+    "genre": "Quiz",
+    "applicationCategory": "Game",
+    "operatingSystem": "Web"
+  }
+  </script>
+</head>
+<body>
+  <!-- Start Screen -->
+  <section id="start-screen" class="screen active" aria-label="Başlangıç ekranı">
+    <div class="start-content">
+      <div class="logo-wrap">
+        <i class="fa-solid fa-crown logo-icon" aria-hidden="true"></i>
+        <h1 class="logo-title">KİM MİLYONER<br>OLMAK İSTER?</h1>
+        <p class="logo-sub">10.000.000 TL Büyük Ödül</p>
+      </div>
+      <div class="start-buttons">
+        <button id="btn-start" class="btn btn-primary btn-lg" type="button">
+          <i class="fa-solid fa-play" aria-hidden="true"></i>
+          <span>Başla</span>
+        </button>
+        <button id="btn-continue" class="btn btn-secondary btn-lg hidden" type="button">
+          <i class="fa-solid fa-forward" aria-hidden="true"></i>
+          <span>Devam Et</span>
+        </button>
+        <button id="btn-stats" class="btn btn-ghost" type="button">
+          <i class="fa-solid fa-chart-line" aria-hidden="true"></i>
+          <span>İstatistikler</span>
+        </button>
+        <button id="btn-help" class="btn btn-ghost" type="button">
+          <i class="fa-solid fa-circle-info" aria-hidden="true"></i>
+          <span>Nasıl Oynanır</span>
+        </button>
+      </div>
+      <div class="start-footer">
+        <p class="version-text">v1.0 · Offline Destekli · PWA</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Game Screen -->
+  <section id="game-screen" class="screen" aria-label="Oyun ekranı">
+    <!-- Top Bar -->
+    <header class="top-bar">
+      <button id="btn-quit" class="icon-btn" type="button" aria-label="Oyundan çık">
+        <i class="fa-solid fa-xmark" aria-hidden="true"></i>
+      </button>
+      <div class="top-info">
+        <span id="current-prize" class="prize-label">0 TL</span>
+      </div>
+      <div class="timer-wrap" aria-label="Geri sayım">
+        <svg class="timer-ring" viewBox="0 0 100 100" aria-hidden="true">
+          <circle class="timer-track" cx="50" cy="50" r="44" />
+          <circle class="timer-progress" cx="50" cy="50" r="44" />
+        </svg>
+        <span id="timer-text" class="timer-text">60</span>
+      </div>
+    </header>
+
+    <!-- Main Game Area -->
+    <div class="game-body">
+      <!-- Money Tree -->
+      <aside class="money-tree" aria-label="Para ağacı">
+        <ol id="money-list" class="money-list"></ol>
+      </aside>
+
+      <!-- Question Area -->
+      <main class="question-area">
+        <div class="jokers">
+          <button id="joker-5050" class="joker-btn" type="button" aria-label="Çift cevap hakkı jokeri">
+            <i class="fa-solid fa-shuffle" aria-hidden="true"></i>
+            <span class="joker-label">Çift Cevap</span>
+          </button>
+          <button id="joker-audience" class="joker-btn" type="button" aria-label="Seyirci jokeri">
+            <i class="fa-solid fa-users" aria-hidden="true"></i>
+            <span class="joker-label">Seyirci</span>
+          </button>
+          <button id="joker-skip" class="joker-btn" type="button" aria-label="Soruyu geç jokeri">
+            <i class="fa-solid fa-forward" aria-hidden="true"></i>
+            <span class="joker-label">Soruyu Geç</span>
+          </button>
+        </div>
+
+        <div class="question-card glass">
+          <div class="question-tier">
+            <span id="tier-badge" class="tier-badge">Kolay</span>
+            <span id="question-number" class="question-number">Soru 1/15</span>
+          </div>
+          <p id="question-text" class="question-text">Soru yükleniyor…</p>
+        </div>
+
+        <!-- Audience poll (between question and options so it's visible on mobile) -->
+        <div id="audience-panel" class="audience-panel hidden" aria-live="polite"></div>
+
+        <div id="options" class="options" role="group" aria-label="Cevap seçenekleri"></div>
+      </main>
+    </div>
+  </section>
+
+  <!-- Result Screen -->
+  <section id="result-screen" class="screen" aria-label="Sonuç ekranı">
+    <div class="result-content">
+      <i id="result-icon" class="result-icon" aria-hidden="true"></i>
+      <h2 id="result-title" class="result-title"></h2>
+      <p id="result-prize" class="result-prize"></p>
+      <p id="result-message" class="result-message"></p>
+      <div class="result-buttons">
+        <button id="btn-restart" class="btn btn-primary btn-lg" type="button">
+          <i class="fa-solid fa-rotate-right" aria-hidden="true"></i>
+          <span>Tekrar Oyna</span>
+        </button>
+        <button id="btn-home" class="btn btn-ghost" type="button">
+          <i class="fa-solid fa-house" aria-hidden="true"></i>
+          <span>Ana Menü</span>
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Stats Modal -->
+  <div id="stats-modal" class="modal hidden" role="dialog" aria-label="İstatistikler" aria-modal="true">
+    <div class="modal-content glass">
+      <button id="stats-close" class="icon-btn modal-close" type="button" aria-label="Kapat">
+        <i class="fa-solid fa-xmark" aria-hidden="true"></i>
+      </button>
+      <h2 class="modal-title">İstatistikler</h2>
+      <div id="stats-content" class="stats-content"></div>
+    </div>
+  </div>
+
+  <!-- Help Modal -->
+  <div id="help-modal" class="modal hidden" role="dialog" aria-label="Nasıl oynanır" aria-modal="true">
+    <div class="modal-content glass">
+      <button id="help-close" class="icon-btn modal-close" type="button" aria-label="Kapat">
+        <i class="fa-solid fa-xmark" aria-hidden="true"></i>
+      </button>
+      <h2 class="modal-title">Nasıl Oynanır?</h2>
+      <div class="help-content">
+        <p>15 soruyu sırasıyla cevaplayarak 10.000.000 TL'lik büyük ödüle ulaşmaya çalış.</p>
+        <ul>
+          <li><strong>Barajlar:</strong> 50.000 TL ve 250.000 TL baraj sorularında yanlış cevabın halinde güvence altındaki ödülü alırsın.</li>
+          <li><strong>Süre:</strong> 50.000 TL'ye kadar 60 saniye, sonrasında 180 saniye süren var.</li>
+          <li><strong>Jokerler:</strong> Çift Cevap, Seyirci ve Soruyu Geç — her biri bir kez kullanılabilir.</li>
+          <li><strong>Klavye:</strong> A/B/C/D ile cevap, 1/2/3 ile joker, Esc ile çıkış.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Confetti Canvas -->
+  <canvas id="confetti-canvas" aria-hidden="true"></canvas>
+
+  <!-- Toast -->
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <!-- Scripts -->
+  <script type="module" src="assets/js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,3907 @@
+{
+  "version": 2,
+  "generated_at": "",
+  "count": 260,
+  "questions": [
+    {
+      "id": "9fd8d5d65c35",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "genel",
+      "question": "Avrupa'da 15-16. yüzyıllardaki yeniden doğuş hareketidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Rönesans",
+      "options": [
+        "Rönesans",
+        "1517",
+        "1945",
+        "1453"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "43a1b9b5d6be",
+      "difficulty": 2,
+      "tier": "Kolay",
+      "category": "ülke",
+      "question": "başkenti Madrid olan Avrupa ülkesidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "İspanya",
+      "options": [
+        "Almanya",
+        "Mısır",
+        "Polonya",
+        "İspanya"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "ae31abfc540b",
+      "difficulty": 14,
+      "tier": "Profesör",
+      "category": "eser",
+      "question": "Kaşgari'nin Türkçe sözlüğüdür. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Divan-ı Lügati't-Türk",
+      "options": [
+        "Balıkesir",
+        "Bursa",
+        "Konya",
+        "Divan-ı Lügati't-Türk"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "6c3e04abd62c",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "ülke",
+      "question": "başkenti Paris olan Avrupa ülkesidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Fransa",
+      "options": [
+        "İspanya",
+        "Fransa",
+        "Almanya",
+        "İsveç"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "5f82c7f00511",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "kişi",
+      "question": "Hamlet ve Romeo ve Juliet'in yazarıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "William Shakespeare",
+      "options": [
+        "Nikola Tesla",
+        "Beethoven",
+        "William Shakespeare",
+        "Winston Churchill"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "5a89c3f36145",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Rocky Dağları, Kuzey Amerika'nın batısında uzanan büyük sıradağ. Rocky Dağları, batı Kanada'daki… bağlamında doğrudur?",
+      "correct": "Rocky Dağları",
+      "options": [
+        "Yangtze",
+        "Pisagor",
+        "Tokyo",
+        "Rocky Dağları"
+      ],
+      "source": "Rocky Dağları"
+    },
+    {
+      "id": "75667b37b935",
+      "difficulty": 3,
+      "tier": "Kolay",
+      "category": "kişi",
+      "question": "Türkiye Cumhuriyeti'nin kurucusudur. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Mustafa Kemal Atatürk",
+      "options": [
+        "İspanya",
+        "Rusya",
+        "Mustafa Kemal Atatürk",
+        "Kanada"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "54c2246b6a5c",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "ülke",
+      "question": "başkenti Tokyo olan Asya ülkesidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Japonya",
+      "options": [
+        "Japonya",
+        "Arjantin",
+        "Almanya",
+        "Meksika"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "b652cacab660",
+      "difficulty": 12,
+      "tier": "Uzman",
+      "category": "genel",
+      "question": "Gelişimsel hesap bozukluğu olarak da bilinir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Travmatik matematik",
+      "options": [
+        "Sakarya",
+        "Tekirdağ",
+        "Konya",
+        "Travmatik matematik"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "2f37e8c66e81",
+      "difficulty": 15,
+      "tier": "Final",
+      "category": "eser",
+      "question": "Yusuf Has Hacib'in mesnevisidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Kutadgu Bilig",
+      "options": [
+        "Kutadgu Bilig",
+        "Antalya",
+        "Trabzon",
+        "Sakarya"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "b2331b49f9ae",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Eyfel Kulesi, Paris'teki demir kule. Kule, aynı zamanda tüm dünyada Fransa'nın sembolü… bağlamında doğrudur?",
+      "correct": "Eyfel Kulesi",
+      "options": [
+        "Baruch Spinoza",
+        "Bizans İmparatorluğu",
+        "1517",
+        "Eyfel Kulesi"
+      ],
+      "source": "Eyfel Kulesi"
+    },
+    {
+      "id": "2f7a78cf251f",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Topkapı Sarayı, İstanbul Sarayburnu'nda, Osmanlı İmparatorluğu'nun 600 yıllık tarihinin 400 yılı boyunca… bağlamında doğrudur?",
+      "correct": "Topkapı Sarayı",
+      "options": [
+        "Isaac Newton",
+        "I. Dünya Savaşı",
+        "Topkapı Sarayı",
+        "Polonya"
+      ],
+      "source": "Topkapı Sarayı"
+    },
+    {
+      "id": "2cf0a8cee288",
+      "difficulty": 13,
+      "tier": "Uzman",
+      "category": "eser",
+      "question": "Türklerin en eski yazılı belgeleridir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Orhun Yazıtları",
+      "options": [
+        "Ankara",
+        "Orhun Yazıtları",
+        "Kayseri",
+        "Sakarya"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "3881dadef81b",
+      "difficulty": 3,
+      "tier": "Kolay",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Satürn veya Eski Türkçedeki adıyla Sekentir ya da Sekendiz, Güneş'e en yakın… bağlamında doğrudur?",
+      "correct": "Satürn",
+      "options": [
+        "Friedrich Nietzsche",
+        "Güneş",
+        "Satürn",
+        "Kore Savaşı"
+      ],
+      "source": "Satürn"
+    },
+    {
+      "id": "01ef31c1e9eb",
+      "difficulty": 12,
+      "tier": "Uzman",
+      "category": "eser",
+      "question": "Kaşgari'nin Türkçe sözlüğüdür. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Divan-ı Lügati't-Türk",
+      "options": [
+        "Ankara",
+        "Divan-ı Lügati't-Türk",
+        "Tekirdağ",
+        "Edirne"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "bd6e102320f1",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "genel",
+      "question": "Genetik bilginin saklandığı moleküldür. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "DNA",
+      "options": [
+        "Kuantum mekaniği",
+        "Atom teorisi",
+        "Ozon tabakası",
+        "DNA"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "3a80b8961445",
+      "difficulty": 3,
+      "tier": "Kolay",
+      "category": "place",
+      "question": "Hangi şehir Roma veya Roma komünü, İtalya'nın başkenti ve en kalabalık belediyesidir. Aynı zamanda…?",
+      "correct": "Roma",
+      "options": [
+        "Roma",
+        "Karadeniz",
+        "Immanuel Kant",
+        "Eyfel Kulesi"
+      ],
+      "source": "Roma"
+    },
+    {
+      "id": "46da1c5c2576",
+      "difficulty": 14,
+      "tier": "Profesör",
+      "category": "eser",
+      "question": "Türklerin en eski yazılı belgeleridir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Orhun Yazıtları",
+      "options": [
+        "İzmir",
+        "Tekirdağ",
+        "Orhun Yazıtları",
+        "Antalya"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "f5dede66644d",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "person",
+      "question": "Bu kişi kimdir? Sisamlı Pisagor, Antik İyonya'nın en ünlü düşünürlerinden birisidir. Yunan düşünür ve Pisagorculuğun kurucusudur. Siyasal…",
+      "correct": "Pisagor",
+      "options": [
+        "Berlin",
+        "Pisagor",
+        "New York",
+        "Nil"
+      ],
+      "source": "Pisagor"
+    },
+    {
+      "id": "9785572aa731",
+      "difficulty": 3,
+      "tier": "Kolay",
+      "category": "yıl",
+      "question": "Türkiye Cumhuriyeti ilan edildi. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "1923",
+      "options": [
+        "1998",
+        "1923",
+        "2123",
+        "1933"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "bd7f631f1b60",
+      "difficulty": 8,
+      "tier": "Zor",
+      "category": "genel",
+      "question": "1071'de Türklerin Anadolu'ya girişini sağlayan savaştır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Manzikert Muharebesi",
+      "options": [
+        "Manzikert Muharebesi",
+        "İzmir",
+        "Diyarbakır",
+        "Mersin"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "fc9cd9c7dd8f",
+      "difficulty": 2,
+      "tier": "Kolay",
+      "category": "ülke",
+      "question": "başkenti Paris olan Avrupa ülkesidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Fransa",
+      "options": [
+        "Fransa",
+        "Güney Kore",
+        "Meksika",
+        "Portekiz"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "704888e892ff",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "yıl",
+      "question": "İstanbul'un fethi gerçekleşti. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "1453",
+      "options": [
+        "1443",
+        "1403",
+        "1528",
+        "1453"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "95aa69c82f53",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Vietnam Savaşı ya da İkinci Çinhindi Savaşı, 1 Kasım 1955 ile 30… bağlamında doğrudur?",
+      "correct": "Vietnam Savaşı",
+      "options": [
+        "Vietnam Savaşı",
+        "Hindistan",
+        "Ayasofya",
+        "Dolmabahçe Sarayı"
+      ],
+      "source": "Vietnam Savaşı"
+    },
+    {
+      "id": "9142b632c8bd",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "person",
+      "question": "Bu kişi kimdir? William Shakespeare, İngiliz şair, oyun yazarı ve oyuncudur. Genellikle İngilizce dilinin en büyük yazarı…",
+      "correct": "William Shakespeare",
+      "options": [
+        "Mars",
+        "William Shakespeare",
+        "Roma",
+        "Winston Churchill"
+      ],
+      "source": "William Shakespeare"
+    },
+    {
+      "id": "a2b657a37046",
+      "difficulty": 3,
+      "tier": "Kolay",
+      "category": "ülke",
+      "question": "başkenti Berlin olan Avrupa ülkesidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Almanya",
+      "options": [
+        "Arjantin",
+        "Japonya",
+        "Almanya",
+        "Polonya"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "9e62267a9b8e",
+      "difficulty": 3,
+      "tier": "Kolay",
+      "category": "place",
+      "question": "Hangi şehir Londra, İngiltere'nin ve Birleşik Krallık'ın başkenti ve en büyük şehridir. Daha geniş…?",
+      "correct": "Londra",
+      "options": [
+        "Sahra",
+        "Londra",
+        "Galileo Galilei",
+        "Güneş"
+      ],
+      "source": "Londra"
+    },
+    {
+      "id": "0bba5e8bafac",
+      "difficulty": 12,
+      "tier": "Uzman",
+      "category": "kişi",
+      "question": "Mesnevi'nin yazarı olan Sufi şairdir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Mevlana",
+      "options": [
+        "Charles Darwin",
+        "Mevlana",
+        "Aristoteles",
+        "Mozart"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "dd78ee7d1276",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Alpler, Orta Avrupa'da yer alan büyük dağ silsilesi. İsviçre, Kuzey İtalya, Fransa… bağlamında doğrudur?",
+      "correct": "Alpler",
+      "options": [
+        "David Hume",
+        "Alpler",
+        "Küba Füze Krizi",
+        "Türkiye"
+      ],
+      "source": "Alpler"
+    },
+    {
+      "id": "54a3cee34327",
+      "difficulty": 13,
+      "tier": "Uzman",
+      "category": "kişi",
+      "question": "Osmanlı tarihçi ve coğrafyacısıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Kâtip Çelebi",
+      "options": [
+        "1848",
+        "1923",
+        "1929",
+        "Kâtip Çelebi"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "42eca8559ba7",
+      "difficulty": 2,
+      "tier": "Kolay",
+      "category": "şehir",
+      "question": "Türkiye'nin en kalabalık şehridir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "İstanbul",
+      "options": [
+        "Denizli",
+        "İstanbul",
+        "Muğla",
+        "Aydın"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "4ec6f5514e7a",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "şehir",
+      "question": "Fransa'nın başkentidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Paris",
+      "options": [
+        "Lizbon",
+        "Oslo",
+        "Roma",
+        "Paris"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "6e65dc51f95a",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Efes, Anadolu'nun batı kıyısında, bugünkü İzmir ilinin Selçuk ilçesinin üç kilometre güneybatısında… bağlamında doğrudur?",
+      "correct": "Efes",
+      "options": [
+        "Efes",
+        "Jean-Jacques Rousseau",
+        "Eyfel Kulesi",
+        "Berlin Duvarı"
+      ],
+      "source": "Efes"
+    },
+    {
+      "id": "a36265d52b1d",
+      "difficulty": 15,
+      "tier": "Final",
+      "category": "eser",
+      "question": "Türklerin en eski yazılı belgeleridir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Orhun Yazıtları",
+      "options": [
+        "Aydın",
+        "Mersin",
+        "Orhun Yazıtları",
+        "Ankara"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "b391e4221a35",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "genel",
+      "question": "Avrupa'da 15-16. yüzyıllardaki yeniden doğuş hareketidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Rönesans",
+      "options": [
+        "1492",
+        "1918",
+        "1789",
+        "Rönesans"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "8243284cc2a5",
+      "difficulty": 12,
+      "tier": "Uzman",
+      "category": "genel",
+      "question": "Evrenin kütlesinin büyük kısmını oluşturduğu düşünülen maddedir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Karanlık madde",
+      "options": [
+        "Gaziantep",
+        "Trabzon",
+        "Karanlık madde",
+        "Kayseri"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "b5f656772663",
+      "difficulty": 14,
+      "tier": "Profesör",
+      "category": "genel",
+      "question": "Kütle oluşumunu açıklayan parçacıktır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Higgs bozonu",
+      "options": [
+        "Tekirdağ",
+        "Konya",
+        "Ankara",
+        "Higgs bozonu"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "6e17aa16dda7",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "country",
+      "question": "Hangi ülke Mustafa Kemal Atatürk, Türk mareşal, devlet adamı, yazar, Türk Kurtuluş Savaşı'nın başkomutanı…?",
+      "correct": "Mustafa Kemal Atatürk",
+      "options": [
+        "Türkiye",
+        "Mustafa Kemal Atatürk",
+        "Japonya",
+        "Moğol İmparatorluğu"
+      ],
+      "source": "Mustafa Kemal Atatürk"
+    },
+    {
+      "id": "634db9f75fad",
+      "difficulty": 3,
+      "tier": "Kolay",
+      "category": "ülke",
+      "question": "başkenti Tokyo olan Asya ülkesidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Japonya",
+      "options": [
+        "Polonya",
+        "Japonya",
+        "Brezilya",
+        "Norveç"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "d80ae253bd2f",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Büyük Okyanus veya Pasifik Okyanusu, Amerika, Asya, Antarktika ve Okyanusya kıtaları arasında… bağlamında doğrudur?",
+      "correct": "Büyük Okyanus",
+      "options": [
+        "William Shakespeare",
+        "Anıtkabir",
+        "Büyük Okyanus",
+        "Isaac Newton"
+      ],
+      "source": "Büyük Okyanus"
+    },
+    {
+      "id": "88dacf98fcbe",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "person",
+      "question": "Bu kişi kimdir? Aristoteles veya kısaca Aristo, Antik Yunanistan'da klasik dönem aralığında yaşamını sürdürmüş olan Yunan filozof…",
+      "correct": "Aristoteles",
+      "options": [
+        "Napoleon Bonaparte",
+        "Sahra",
+        "Aristoteles",
+        "Jean-Jacques Rousseau"
+      ],
+      "source": "Aristoteles"
+    },
+    {
+      "id": "6061d1f35061",
+      "difficulty": 14,
+      "tier": "Profesör",
+      "category": "kişi",
+      "question": "Mesnevi'nin yazarı olan Sufi şairdir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Mevlana",
+      "options": [
+        "Vincent van Gogh",
+        "Pythagoras",
+        "Mevlana",
+        "Isaac Newton"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "615f8f13f54d",
+      "difficulty": 10,
+      "tier": "Çok Zor",
+      "category": "eser",
+      "question": "Türklerin en eski yazılı belgeleridir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Orhun Yazıtları",
+      "options": [
+        "Gaziantep",
+        "Orhun Yazıtları",
+        "Edirne",
+        "İzmir"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "a0d4e53318d9",
+      "difficulty": 10,
+      "tier": "Çok Zor",
+      "category": "genel",
+      "question": "Kütle oluşumunu açıklayan parçacıktır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Higgs bozonu",
+      "options": [
+        "Aydın",
+        "Tekirdağ",
+        "Higgs bozonu",
+        "Balıkesir"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "ebec23cf914e",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "eser",
+      "question": "George Orwell'ın distopik romanıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "1984",
+      "options": [
+        "1964",
+        "1909",
+        "1984",
+        "2059"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "3fdcb20f2740",
+      "difficulty": 7,
+      "tier": "Zor",
+      "category": "kişi",
+      "question": "Osmanlı astronom ve matematikçisidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Ali Kuşçu",
+      "options": [
+        "Sokrates",
+        "Winston Churchill",
+        "Ali Kuşçu",
+        "Pythagoras"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "6883b558a517",
+      "difficulty": 9,
+      "tier": "Zor",
+      "category": "genel",
+      "question": "1071'de Türklerin Anadolu'ya girişini sağlayan savaştır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Manzikert Muharebesi",
+      "options": [
+        "Diyarbakır",
+        "Manzikert Muharebesi",
+        "Sakarya",
+        "Aydın"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "37f6050fd082",
+      "difficulty": 9,
+      "tier": "Zor",
+      "category": "eser",
+      "question": "Oğuz Atay'ın ünlü romanıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Tutunamayanlar",
+      "options": [
+        "Küçük Prens",
+        "Divine Comedy",
+        "Savaş ve Barış",
+        "Tutunamayanlar"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "60577f8b6a88",
+      "difficulty": 11,
+      "tier": "Çok Zor",
+      "category": "genel",
+      "question": "Evrenin kütlesinin büyük kısmını oluşturduğu düşünülen maddedir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Karanlık madde",
+      "options": [
+        "Bursa",
+        "Edirne",
+        "Samsun",
+        "Karanlık madde"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "cc157a1bfd80",
+      "difficulty": 13,
+      "tier": "Uzman",
+      "category": "kişi",
+      "question": "Seyahatname'nin yazarıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Evliya Çelebi",
+      "options": [
+        "Sokrates",
+        "Vincent van Gogh",
+        "Mozart",
+        "Evliya Çelebi"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "ad2216e0cb00",
+      "difficulty": 7,
+      "tier": "Zor",
+      "category": "eser",
+      "question": "Mustafa Kemal Atatürk'ün söylevidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Nutuk",
+      "options": [
+        "Edirne",
+        "Samsun",
+        "Nutuk",
+        "Sakarya"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "2c87f30f5843",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Karadeniz, güneydoğu Avrupa ile Anadolu yarımadası arasında yer alan, kuzeyinde Ukrayna, kuzeydoğusunda… bağlamında doğrudur?",
+      "correct": "Karadeniz",
+      "options": [
+        "Karadeniz",
+        "Sahra",
+        "Osmanlı İmparatorluğu",
+        "Süleymaniye Camii"
+      ],
+      "source": "Karadeniz"
+    },
+    {
+      "id": "22b3ee8670d6",
+      "difficulty": 2,
+      "tier": "Kolay",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Ay, Dünya'nın tek doğal uydusu ve Güneş Sistemi içindeki beşinci büyük doğal… bağlamında doğrudur?",
+      "correct": "Ay",
+      "options": [
+        "Güneş",
+        "Tuna",
+        "Ay",
+        "Karl Marx"
+      ],
+      "source": "Ay"
+    },
+    {
+      "id": "248ffd257b68",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "eser",
+      "question": "Victor Hugo'nun ünlü romanıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Sefiller",
+      "options": [
+        "Sefiller",
+        "Robinson Crusoe",
+        "Dracula",
+        "Divine Comedy"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "9377a5f8cf0f",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "country",
+      "question": "Hangi ülke Anıtkabir, Ankara'nın Çankaya ilçesinde yer alan ve Mustafa Kemal Atatürk'ün anıt mezarını…?",
+      "correct": "Anıtkabir",
+      "options": [
+        "Friedrich Nietzsche",
+        "İstanbul'un Fethi",
+        "Kolezyum",
+        "Anıtkabir"
+      ],
+      "source": "Anıtkabir"
+    },
+    {
+      "id": "3cbc1729198b",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "ülke",
+      "question": "başkenti Berlin olan Avrupa ülkesidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Almanya",
+      "options": [
+        "Çin",
+        "Almanya",
+        "İsveç",
+        "Polonya"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "ce3aa32a77c1",
+      "difficulty": 2,
+      "tier": "Kolay",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Fransız İhtilali veya Fransız Devrimi (1789-1799), Fransa'daki mutlak monarşinin devrilip yerine cumhuriyetin… bağlamında doğrudur?",
+      "correct": "Fransız Devrimi",
+      "options": [
+        "Napolyon Bonapart",
+        "Hint Okyanusu",
+        "Fransız Devrimi",
+        "Rönesans"
+      ],
+      "source": "Fransız Devrimi"
+    },
+    {
+      "id": "10bca7a8187a",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Bering Boğazı, Asya'nın en doğu noktası ile Amerika'nın en batı noktası arasında… bağlamında doğrudur?",
+      "correct": "Bering Boğazı",
+      "options": [
+        "Charles Darwin",
+        "Küba Füze Krizi",
+        "Hint Okyanusu",
+        "Bering Boğazı"
+      ],
+      "source": "Bering Boğazı"
+    },
+    {
+      "id": "b9f572d0266d",
+      "difficulty": 2,
+      "tier": "Kolay",
+      "category": "yıl",
+      "question": "Türkiye Cumhuriyeti ilan edildi. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "1923",
+      "options": [
+        "1943",
+        "1923",
+        "1928",
+        "2073"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "cdca0e00673f",
+      "difficulty": 9,
+      "tier": "Zor",
+      "category": "genel",
+      "question": "Akdeniz ile Kızıldeniz'i birleştiren kanaldır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Süveyş Kanalı",
+      "options": [
+        "Ege Denizi",
+        "Alpler",
+        "Süveyş Kanalı",
+        "Tuna Nehri"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "e9952aaa7b12",
+      "difficulty": 12,
+      "tier": "Uzman",
+      "category": "kişi",
+      "question": "Seyahatname'nin yazarıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Evliya Çelebi",
+      "options": [
+        "Evliya Çelebi",
+        "Charles Darwin",
+        "Winston Churchill",
+        "Vincent van Gogh"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "3db63bd5147f",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Atlas Okyanusu veya Atlantik Okyanusu, 106.460.000 km2 yüzölçümü ile Dünya'nın en büyük… bağlamında doğrudur?",
+      "correct": "Atlas Okyanusu",
+      "options": [
+        "Atlas Okyanusu",
+        "Rönesans",
+        "Charles Darwin",
+        "Troya"
+      ],
+      "source": "Atlas Okyanusu"
+    },
+    {
+      "id": "778efc8e8a53",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "kişi",
+      "question": "Hamlet ve Romeo ve Juliet'in yazarıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "William Shakespeare",
+      "options": [
+        "Platon",
+        "William Shakespeare",
+        "Isaac Newton",
+        "Cicero"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "87f9589b4080",
+      "difficulty": 13,
+      "tier": "Uzman",
+      "category": "eser",
+      "question": "Yusuf Has Hacib'in mesnevisidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Kutadgu Bilig",
+      "options": [
+        "Ankara",
+        "Denizli",
+        "Mersin",
+        "Kutadgu Bilig"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "7574bc5b0925",
+      "difficulty": 11,
+      "tier": "Çok Zor",
+      "category": "eser",
+      "question": "Yusuf Has Hacib'in mesnevisidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Kutadgu Bilig",
+      "options": [
+        "İzmir",
+        "Antalya",
+        "Bursa",
+        "Kutadgu Bilig"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "60a92f37f602",
+      "difficulty": 12,
+      "tier": "Uzman",
+      "category": "eser",
+      "question": "Yusuf Has Hacib'in mesnevisidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Kutadgu Bilig",
+      "options": [
+        "Denizli",
+        "Diyarbakır",
+        "Kutadgu Bilig",
+        "Kayseri"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "161190fffe23",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "person",
+      "question": "Bu kişi kimdir? François Marie Arouet ya da Voltaire takma adıyla tanınan Fransız yazar ve filozof. Fransız…",
+      "correct": "Voltaire",
+      "options": [
+        "Voltaire",
+        "Vincent van Gogh",
+        "Nil",
+        "William Shakespeare"
+      ],
+      "source": "Voltaire"
+    },
+    {
+      "id": "9820b097c87c",
+      "difficulty": 3,
+      "tier": "Kolay",
+      "category": "country",
+      "question": "Hangi ülke Fransa, resmî adıyla Fransız Cumhuriyeti, Batı Avrupa'da yer alan bir ülkedir. Denizaşırı…?",
+      "correct": "Fransa",
+      "options": [
+        "Çin",
+        "Nikola Tesla",
+        "Amerikan Bağımsızlık Savaşı",
+        "Fransa"
+      ],
+      "source": "Fransa"
+    },
+    {
+      "id": "10f03fdd4add",
+      "difficulty": 3,
+      "tier": "Kolay",
+      "category": "kişi",
+      "question": "Görelilik kuramını geliştiren fizikçidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Albert Einstein",
+      "options": [
+        "William Shakespeare",
+        "Pablo Picasso",
+        "Winston Churchill",
+        "Albert Einstein"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "82f0184b3c72",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Küba Füze Krizi, ABD’nin Türkiye ve İtalya'ya, SSCB’nin ise Küba’ya nükleer başlıklı… bağlamında doğrudur?",
+      "correct": "Küba Füze Krizi",
+      "options": [
+        "Küba Füze Krizi",
+        "Pablo Picasso",
+        "Kapadokya",
+        "Ayasofya"
+      ],
+      "source": "Küba Füze Krizi"
+    },
+    {
+      "id": "a814ee7287f9",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Sefiller, Victor Hugo tarafından yazılan tarihi romandır. İlk olarak 1862'de yayınlandı. 19… bağlamında doğrudur?",
+      "correct": "Sefiller",
+      "options": [
+        "Portekiz",
+        "Vietnam Savaşı",
+        "Ludwig van Beethoven",
+        "Sefiller"
+      ],
+      "source": "Sefiller"
+    },
+    {
+      "id": "13dc35eaf0a3",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "country",
+      "question": "Hangi ülke Roma İmparatorluğu, Roma Cumhuriyeti döneminde, Augustus'un cumhuriyeti tek başına yönetebilecek yetkiler alması…?",
+      "correct": "Roma İmparatorluğu",
+      "options": [
+        "Panama Kanalı",
+        "Friedrich Nietzsche",
+        "II. Dünya Savaşı",
+        "Roma İmparatorluğu"
+      ],
+      "source": "Roma İmparatorluğu"
+    },
+    {
+      "id": "c0ca6b82dc64",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Selimiye Camii, Osmanlı padişahı II. Selim döneminde Mimar Sinan'ın yaptığı ve Osmanlı'nın… bağlamında doğrudur?",
+      "correct": "Selimiye Camii",
+      "options": [
+        "Selimiye Camii",
+        "Türk Kurtuluş Savaşı",
+        "Kapadokya",
+        "Fransa"
+      ],
+      "source": "Selimiye Camii"
+    },
+    {
+      "id": "f135426ea0c3",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Dolmabahçe Sarayı, İstanbul, Beşiktaş'ta, Kabataş'tan Beşiktaş'a uzanan Dolmabahçe Caddesi'yle İstanbul Boğazı arasında… bağlamında doğrudur?",
+      "correct": "Dolmabahçe Sarayı",
+      "options": [
+        "Dolmabahçe Sarayı",
+        "1989",
+        "Güneş",
+        "Thomas Hobbes"
+      ],
+      "source": "Dolmabahçe Sarayı"
+    },
+    {
+      "id": "2c6e9f7401cc",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Ayasofya, resmî adıyla Ayasofya-i Kebîr Câmi-i Şerîfi, İstanbul'un Fatih ilçesinde kiliseden çevrilmiş… bağlamında doğrudur?",
+      "correct": "Ayasofya",
+      "options": [
+        "Alpler",
+        "Nikola Tesla",
+        "Ayasofya",
+        "Roma"
+      ],
+      "source": "Ayasofya"
+    },
+    {
+      "id": "2c97c2a6b1e5",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "work",
+      "question": "Aşağıdaki eserlerden hangisi Bin Dokuz Yüz Seksen Dört, İngiliz yazar George Orwell tarafından kaleme alınmış…?",
+      "correct": "Bin Dokuz Yüz Seksen Dört",
+      "options": [
+        "Bin Dokuz Yüz Seksen Dört",
+        "Nil",
+        "Panama Kanalı",
+        "René Descartes"
+      ],
+      "source": "Bin Dokuz Yüz Seksen Dört"
+    },
+    {
+      "id": "bde7652048a7",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "concept",
+      "question": "Aşağıdakilerden hangisi Himalaya Dağları, dünyanın en büyük ve en yüksek sıradağları arasında zirveyi çeker… ile ilgili bir kavramdır?",
+      "correct": "Himalayalar",
+      "options": [
+        "Sanayi Devrimi",
+        "Hücre teorisi",
+        "Himalayalar",
+        "Yangtze"
+      ],
+      "source": "Himalayalar"
+    },
+    {
+      "id": "237acb4cb342",
+      "difficulty": 15,
+      "tier": "Final",
+      "category": "genel",
+      "question": "Gelişimsel hesap bozukluğu olarak da bilinir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Travmatik matematik",
+      "options": [
+        "Tekirdağ",
+        "Travmatik matematik",
+        "Mersin",
+        "Antalya"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "239b8e07e025",
+      "difficulty": 15,
+      "tier": "Final",
+      "category": "genel",
+      "question": "Evrenin sınırsız olduğu öğretisini savunan filozoftur. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Anaximandros",
+      "options": [
+        "Charles Darwin",
+        "Pythagoras",
+        "Anaximandros",
+        "Mozart"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "487eb79c0590",
+      "difficulty": 15,
+      "tier": "Final",
+      "category": "kişi",
+      "question": "Mesnevi'nin yazarı olan Sufi şairdir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Mevlana",
+      "options": [
+        "Leonardo da Vinci",
+        "Nikola Tesla",
+        "Mevlana",
+        "Mozart"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "b73ae5988346",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "person",
+      "question": "Bu kişi kimdir? Pablo Picasso, Fransa'da yaşamış İspanyol ressam, heykeltıraş, sahne tasarımcısı, şair ve oyun yazarıdır. 20…",
+      "correct": "Pablo Picasso",
+      "options": [
+        "Moğol İmparatorluğu",
+        "Pablo Picasso",
+        "Çin Seddi",
+        "Roma İmparatorluğu"
+      ],
+      "source": "Pablo Picasso"
+    },
+    {
+      "id": "5476c91c058f",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi İstanbul, Türkiye'nin ekonomik, kültürel ve tarihî merkezini oluşturan en kalabalık şehridir. 15,7… bağlamında doğrudur?",
+      "correct": "İstanbul",
+      "options": [
+        "Akdeniz",
+        "Süleymaniye Camii",
+        "Bizans İmparatorluğu",
+        "İstanbul"
+      ],
+      "source": "İstanbul"
+    },
+    {
+      "id": "b7d0465ee7de",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Güneş, Güneş Sistemi'nin merkezinde yer alan bir yıldızdır. Çekirdeğindeki nükleer füzyon reaksiyonları… bağlamında doğrudur?",
+      "correct": "Güneş",
+      "options": [
+        "Karadeniz",
+        "Güneş",
+        "Sahra",
+        "İstanbul"
+      ],
+      "source": "Güneş"
+    },
+    {
+      "id": "cfa2d2fdbfdb",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "person",
+      "question": "Bu kişi kimdir? Jean-Jacques Rousseau, Cenevreli filozof, yazar ve besteciydi. Onun siyaset felsefesi, Avrupa'da Aydınlanma Çağı'nın ilerlemesinin…",
+      "correct": "Jean-Jacques Rousseau",
+      "options": [
+        "Friedrich Nietzsche",
+        "Ludwig van Beethoven",
+        "Paris",
+        "Jean-Jacques Rousseau"
+      ],
+      "source": "Jean-Jacques Rousseau"
+    },
+    {
+      "id": "37c4c855fb78",
+      "difficulty": 2,
+      "tier": "Kolay",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Marie Skłodowska Curie, radyoaktivite alanında öncü araştırmalar yapmış ve bu araştırmaları sonucunda… bağlamında doğrudur?",
+      "correct": "Marie Curie",
+      "options": [
+        "Marie Curie",
+        "Atlas Okyanusu",
+        "Büyük Okyanus",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "source": "Marie Curie"
+    },
+    {
+      "id": "0e281fb95dc8",
+      "difficulty": 12,
+      "tier": "Uzman",
+      "category": "genel",
+      "question": "Evrenin sınırsız olduğu öğretisini savunan filozoftur. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Anaximandros",
+      "options": [
+        "Anaximandros",
+        "Platon",
+        "Napoleon Bonaparte",
+        "Pythagoras"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "dcc9f01fdf13",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "kişi",
+      "question": "Evrim kuramını ortaya atan bilim insanıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Charles Darwin",
+      "options": [
+        "Leonardo da Vinci",
+        "William Shakespeare",
+        "Charles Darwin",
+        "Marie Curie"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "cb222bb53640",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "person",
+      "question": "Bu kişi kimdir? Immanuel Kant, Prusya kökenli Alman filozof. Alman felsefesinin kurucu isimlerinden biri olmuş, Aydınlanma Çağı…",
+      "correct": "Immanuel Kant",
+      "options": [
+        "Montesquieu",
+        "Türk Kurtuluş Savaşı",
+        "Immanuel Kant",
+        "Troya"
+      ],
+      "source": "Immanuel Kant"
+    },
+    {
+      "id": "76d554c18789",
+      "difficulty": 2,
+      "tier": "Kolay",
+      "category": "şehir",
+      "question": "Fransa'nın başkentidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Paris",
+      "options": [
+        "Amsterdam",
+        "Paris",
+        "Londra",
+        "İstanbul"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "d8ba0f1c5a2e",
+      "difficulty": 9,
+      "tier": "Zor",
+      "category": "eser",
+      "question": "Mustafa Kemal Atatürk'ün söylevidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Nutuk",
+      "options": [
+        "Trabzon",
+        "Nutuk",
+        "Aydın",
+        "Gaziantep"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "bb5878d30c0d",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Amerikan Bağımsızlık Savaşı, 1775–1783 yılları arasında Büyük Britanya ve Kuzey Amerika'daki On… bağlamında doğrudur?",
+      "correct": "Amerikan Bağımsızlık Savaşı",
+      "options": [
+        "Thomas Hobbes",
+        "Amerikan Bağımsızlık Savaşı",
+        "Rocky Dağları",
+        "Norveç"
+      ],
+      "source": "Amerikan Bağımsızlık Savaşı"
+    },
+    {
+      "id": "2df591fe094c",
+      "difficulty": 2,
+      "tier": "Kolay",
+      "category": "kişi",
+      "question": "Görelilik kuramını geliştiren fizikçidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Albert Einstein",
+      "options": [
+        "Albert Einstein",
+        "Mozart",
+        "Isaac Newton",
+        "Cicero"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "f27167893607",
+      "difficulty": 14,
+      "tier": "Profesör",
+      "category": "eser",
+      "question": "Yusuf Has Hacib'in mesnevisidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Kutadgu Bilig",
+      "options": [
+        "Kutadgu Bilig",
+        "Muğla",
+        "Konya",
+        "İzmir"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "07aa1969c4ef",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Berlin Duvarı, Doğu Almanya vatandaşlarının Batı Almanya'ya kaçmalarını önlemek için Doğu Alman… bağlamında doğrudur?",
+      "correct": "Berlin Duvarı",
+      "options": [
+        "Roma İmparatorluğu",
+        "Hint Okyanusu",
+        "Rönesans",
+        "Berlin Duvarı"
+      ],
+      "source": "Berlin Duvarı"
+    },
+    {
+      "id": "2e7bc7c9c699",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "person",
+      "question": "Bu kişi kimdir? David Hume, deneycilik, felsefi şüphecilik ve metafiziksel natüralizm alanlarındaki son derece etkili sistemiyle tanınan…",
+      "correct": "David Hume",
+      "options": [
+        "I. Dünya Savaşı",
+        "İstanbul",
+        "Fransız Devrimi",
+        "David Hume"
+      ],
+      "source": "David Hume"
+    },
+    {
+      "id": "478912ce676c",
+      "difficulty": 7,
+      "tier": "Zor",
+      "category": "eser",
+      "question": "Oğuz Atay'ın ünlü romanıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Tutunamayanlar",
+      "options": [
+        "Simyacı",
+        "Nutuk",
+        "Tutunamayanlar",
+        "Cesur Yeni Dünya"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "11d806fb32df",
+      "difficulty": 14,
+      "tier": "Profesör",
+      "category": "genel",
+      "question": "Evrenin kütlesinin büyük kısmını oluşturduğu düşünülen maddedir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Karanlık madde",
+      "options": [
+        "Gaziantep",
+        "Eskişehir",
+        "Muğla",
+        "Karanlık madde"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "11b3bd4bd20d",
+      "difficulty": 7,
+      "tier": "Zor",
+      "category": "kişi",
+      "question": "Böyle Söyleydi Zerdüşt'ün yazarıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Friedrich Nietzsche",
+      "options": [
+        "Beethoven",
+        "Albert Einstein",
+        "Charles Darwin",
+        "Friedrich Nietzsche"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "96e62b5e9899",
+      "difficulty": 2,
+      "tier": "Kolay",
+      "category": "ülke",
+      "question": "başkenti Berlin olan Avrupa ülkesidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Almanya",
+      "options": [
+        "İtalya",
+        "Almanya",
+        "Rusya",
+        "İsveç"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "6a3bca50a94d",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "kişi",
+      "question": "Evrim kuramını ortaya atan bilim insanıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Charles Darwin",
+      "options": [
+        "Mozart",
+        "Charles Darwin",
+        "Platon",
+        "Beethoven"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "c8e78b4ede98",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "eser",
+      "question": "George Orwell'ın distopik romanıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "1984",
+      "options": [
+        "1979",
+        "2034",
+        "1994",
+        "1984"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "0a88b96db0dc",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "genel",
+      "question": "Işığın bile kaçamadığı gök cismidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Kara delik",
+      "options": [
+        "Kara delik",
+        "Denizli",
+        "Balıkesir",
+        "Aydın"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "d5364adbea89",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi I. Dünya Savaşı, 28 Temmuz 1914 tarihinde başlayıp 11 Kasım 1918 tarihinde… bağlamında doğrudur?",
+      "correct": "I. Dünya Savaşı",
+      "options": [
+        "Göbeklitepe",
+        "I. Dünya Savaşı",
+        "Sokrates",
+        "Türk Kurtuluş Savaşı"
+      ],
+      "source": "I. Dünya Savaşı"
+    },
+    {
+      "id": "8be331ba50f7",
+      "difficulty": 9,
+      "tier": "Zor",
+      "category": "kişi",
+      "question": "Osmanlı'nın en ünlü mimarıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Mimar Sinan",
+      "options": [
+        "Gaziantep",
+        "Mimar Sinan",
+        "Balıkesir",
+        "Edirne"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "bd91d3802174",
+      "difficulty": 10,
+      "tier": "Çok Zor",
+      "category": "genel",
+      "question": "Evrenin sınırsız olduğu öğretisini savunan filozoftur. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Anaximandros",
+      "options": [
+        "Isaac Newton",
+        "Anaximandros",
+        "Galileo Galilei",
+        "Aristoteles"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "d7950bae9aea",
+      "difficulty": 14,
+      "tier": "Profesör",
+      "category": "kişi",
+      "question": "Seyahatname'nin yazarıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Evliya Çelebi",
+      "options": [
+        "Albert Einstein",
+        "Galileo Galilei",
+        "Evliya Çelebi",
+        "Marie Curie"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "25beabf03657",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "concept",
+      "question": "Aşağıdakilerden hangisi Isaac Newton, İngiliz fizikçi, matematikçi, astronom, mucit, simyacı, teolog ve filozoftur. 1687… ile ilgili bir kavramdır?",
+      "correct": "Isaac Newton",
+      "options": [
+        "Platon",
+        "Thomas Hobbes",
+        "Selimiye Camii",
+        "Isaac Newton"
+      ],
+      "source": "Isaac Newton"
+    },
+    {
+      "id": "a71b861f3005",
+      "difficulty": 13,
+      "tier": "Uzman",
+      "category": "genel",
+      "question": "Kütle oluşumunu açıklayan parçacıktır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Higgs bozonu",
+      "options": [
+        "Muğla",
+        "Eskişehir",
+        "Higgs bozonu",
+        "Kayseri"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "02d59e7771ee",
+      "difficulty": 10,
+      "tier": "Çok Zor",
+      "category": "genel",
+      "question": "Gelişimsel hesap bozukluğu olarak da bilinir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Travmatik matematik",
+      "options": [
+        "Denizli",
+        "Travmatik matematik",
+        "Edirne",
+        "Eskişehir"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "0bcdeefdab18",
+      "difficulty": 11,
+      "tier": "Çok Zor",
+      "category": "kişi",
+      "question": "Seyahatname'nin yazarıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Evliya Çelebi",
+      "options": [
+        "Beethoven",
+        "Pablo Picasso",
+        "Winston Churchill",
+        "Evliya Çelebi"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "36b3745d554d",
+      "difficulty": 2,
+      "tier": "Kolay",
+      "category": "ülke",
+      "question": "başkenti Roma olan Avrupa ülkesidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "İtalya",
+      "options": [
+        "İspanya",
+        "Hindistan",
+        "İtalya",
+        "Japonya"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "a26e03bb15c2",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Nikola Tesla, Sırp-Amerikalı mucit, elektrik mühendisi, makine mühendisi ve fütüristti. Günümüzde en… bağlamında doğrudur?",
+      "correct": "Nikola Tesla",
+      "options": [
+        "Nikola Tesla",
+        "Çanakkale Savaşı",
+        "Antalya",
+        "David Hume"
+      ],
+      "source": "Nikola Tesla"
+    },
+    {
+      "id": "56aadb6da75a",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "genel",
+      "question": "Avrupa'da 15-16. yüzyıllardaki yeniden doğuş hareketidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Rönesans",
+      "options": [
+        "1869",
+        "Rönesans",
+        "1903",
+        "1848"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "f44c51b485ae",
+      "difficulty": 9,
+      "tier": "Zor",
+      "category": "kişi",
+      "question": "Böyle Söyleydi Zerdüşt'ün yazarıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Friedrich Nietzsche",
+      "options": [
+        "Marie Curie",
+        "Friedrich Nietzsche",
+        "Cicero",
+        "Winston Churchill"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "50681cd914cf",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "person",
+      "question": "Bu kişi kimdir? Sahra ya da Büyük Sahra, Afrika'nın kuzeyinde yer alan, kıtanın ortası ile kuzeyini ayıran…",
+      "correct": "Sahra",
+      "options": [
+        "Rocky Dağları",
+        "Sahra",
+        "Paris",
+        "Friedrich Nietzsche"
+      ],
+      "source": "Sahra"
+    },
+    {
+      "id": "342d6602b80f",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "genel",
+      "question": "Işığın bile kaçamadığı gök cismidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Kara delik",
+      "options": [
+        "Mersin",
+        "Diyarbakır",
+        "Gaziantep",
+        "Kara delik"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "633c1f891ce5",
+      "difficulty": 3,
+      "tier": "Kolay",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Osmanlı İmparatorluğu ya da Türk İmparatorluğu, 1299 yılında Oğuzlardan Osman Gazi'nin kurduğu… bağlamında doğrudur?",
+      "correct": "Osmanlı İmparatorluğu",
+      "options": [
+        "Süveyş Kanalı",
+        "Osmanlı İmparatorluğu",
+        "Soğuk Savaş",
+        "Friedrich Nietzsche"
+      ],
+      "source": "Osmanlı İmparatorluğu"
+    },
+    {
+      "id": "6beb7499352f",
+      "difficulty": 8,
+      "tier": "Zor",
+      "category": "kişi",
+      "question": "Osmanlı denizcisi ve haritacıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Piri Reis",
+      "options": [
+        "Piri Reis",
+        "Volga Nehri",
+        "Pasifik Okyanusu",
+        "Alpler"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "6704fe5863cd",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Tuna, Almanya'nın güneyinde Kara Orman bölgesinde Donaueschingen kasabasında Brigach ve Breg nehirlerinin… bağlamında doğrudur?",
+      "correct": "Tuna",
+      "options": [
+        "Sahra",
+        "Güneş",
+        "Tuna",
+        "Görelilik kuramı"
+      ],
+      "source": "Tuna"
+    },
+    {
+      "id": "337287bcb81e",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "eser",
+      "question": "Dostoyevski'nin ünlü romanıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Suç ve Ceza",
+      "options": [
+        "Gulliver'in Gezileri",
+        "Tutunamayanlar",
+        "Suç ve Ceza",
+        "Frankenstein"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "3affb9750399",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "kişi",
+      "question": "Radyoaktivite araştırmalarıyla Nobel alan bilim insanıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Marie Curie",
+      "options": [
+        "Pythagoras",
+        "Marie Curie",
+        "Leonardo da Vinci",
+        "Beethoven"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "c229a7f103dc",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "place",
+      "question": "Hangi şehir Paris, 105,4 km² alana sahip tahmini 2,04 milyonluk şehir nüfusu ve Ocak…?",
+      "correct": "Paris",
+      "options": [
+        "Ay",
+        "Budapeşte",
+        "Eyfel Kulesi",
+        "Paris"
+      ],
+      "source": "Paris"
+    },
+    {
+      "id": "4f25b8662236",
+      "difficulty": 15,
+      "tier": "Final",
+      "category": "genel",
+      "question": "Evrenin kütlesinin büyük kısmını oluşturduğu düşünülen maddedir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Karanlık madde",
+      "options": [
+        "Tekirdağ",
+        "Karanlık madde",
+        "Konya",
+        "Samsun"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "69909776ed90",
+      "difficulty": 2,
+      "tier": "Kolay",
+      "category": "person",
+      "question": "Albert Einstein ile ilgili aşağıdakilerden hangisi doğrudur? (Albert Einstein, en çok görelilik kuramını geliştirmesiyle tanınan Almanya doğumlu…)",
+      "correct": "1921",
+      "options": [
+        "1911",
+        "2071",
+        "1931",
+        "1921"
+      ],
+      "source": "Albert Einstein"
+    },
+    {
+      "id": "3a244e8127b3",
+      "difficulty": 2,
+      "tier": "Kolay",
+      "category": "country",
+      "question": "Hangi ülke Bizans İmparatorluğu veya Doğu Roma İmparatorluğu ya da kısaca Bizans, Geç Antik…?",
+      "correct": "Bizans İmparatorluğu",
+      "options": [
+        "Bizans İmparatorluğu",
+        "Alpler",
+        "Akdeniz",
+        "Portekiz"
+      ],
+      "source": "Bizans İmparatorluğu"
+    },
+    {
+      "id": "c36e148c9a06",
+      "difficulty": 9,
+      "tier": "Zor",
+      "category": "kişi",
+      "question": "Kapital adlı eserin yazarıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Karl Marx",
+      "options": [
+        "Karl Marx",
+        "Pablo Picasso",
+        "Albert Einstein",
+        "William Shakespeare"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "1211d3615c23",
+      "difficulty": 11,
+      "tier": "Çok Zor",
+      "category": "eser",
+      "question": "Kaşgari'nin Türkçe sözlüğüdür. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Divan-ı Lügati't-Türk",
+      "options": [
+        "Kayseri",
+        "Mersin",
+        "Divan-ı Lügati't-Türk",
+        "Tekirdağ"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "a47090d5e029",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "person",
+      "question": "Bu kişi kimdir? John Locke, Aydınlanma Çağı düşünürlerinin en etkililerinden biri olarak kabul edilen ve genellikle “liberalizmin…",
+      "correct": "John Locke",
+      "options": [
+        "John Locke",
+        "Atlas Okyanusu",
+        "Çin Seddi",
+        "Meksika"
+      ],
+      "source": "John Locke"
+    },
+    {
+      "id": "2967d9496ab8",
+      "difficulty": 2,
+      "tier": "Kolay",
+      "category": "country",
+      "question": "Hangi ülke New York, genellikle New York City (NYC) olarak anılır, Amerika Birleşik Devletleri'nin…?",
+      "correct": "New York",
+      "options": [
+        "New York",
+        "Cebelitarık Boğazı",
+        "Nikola Tesla",
+        "Fransız Devrimi"
+      ],
+      "source": "New York"
+    },
+    {
+      "id": "a98c9d91a06c",
+      "difficulty": 15,
+      "tier": "Final",
+      "category": "genel",
+      "question": "Kütle oluşumunu açıklayan parçacıktır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Higgs bozonu",
+      "options": [
+        "Konya",
+        "Sakarya",
+        "Antalya",
+        "Higgs bozonu"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "7fdc0652396c",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Kolezyum, İtalya'nın başkenti Roma'nın merkezinde, Roma Forumu'nun hemen doğusunda yer alan elips… bağlamında doğrudur?",
+      "correct": "Kolezyum",
+      "options": [
+        "David Hume",
+        "Mısır",
+        "Hipokrat",
+        "Kolezyum"
+      ],
+      "source": "Kolezyum"
+    },
+    {
+      "id": "31923ef6292a",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "country",
+      "question": "Hangi ülke Britanya İmparatorluğu, Birleşik Krallık veya öncül devletleri tarafından yönetilen dominyonlar, sömürgeler, himayeler…?",
+      "correct": "Britanya İmparatorluğu",
+      "options": [
+        "Jean-Jacques Rousseau",
+        "Bizans İmparatorluğu",
+        "Britanya İmparatorluğu",
+        "René Descartes"
+      ],
+      "source": "Britanya İmparatorluğu"
+    },
+    {
+      "id": "9e60a8c6837c",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Güney Amerika'da bulunan Amazon nehri, Afrika'daki Nil Nehri'nden sonra dünyanın en uzun… bağlamında doğrudur?",
+      "correct": "Amazon Nehri",
+      "options": [
+        "Sokrates",
+        "Amazon Nehri",
+        "Himalayalar",
+        "Sahra"
+      ],
+      "source": "Amazon Nehri"
+    },
+    {
+      "id": "5b29936619da",
+      "difficulty": 7,
+      "tier": "Zor",
+      "category": "genel",
+      "question": "1839'da Osmanlı'da başlayan yenileşme hareketidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Tanzimat",
+      "options": [
+        "Tanzimat",
+        "Kayseri",
+        "Trabzon",
+        "Gaziantep"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "49617bda8bc2",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "person",
+      "question": "Bu kişi kimdir? Karl Marx, 19. yüzyılda yaşamış Alman filozof, politik ekonomist ve bilimsel sosyalizmin kurucusu. Bir…",
+      "correct": "Karl Marx",
+      "options": [
+        "Montesquieu",
+        "David Hume",
+        "Mars",
+        "Karl Marx"
+      ],
+      "source": "Karl Marx"
+    },
+    {
+      "id": "fbd9fcb74520",
+      "difficulty": 2,
+      "tier": "Kolay",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Nil, 6650 km. uzunluğu ile dünyanın en uzun nehridir. Havzası Afrika kıtasının… bağlamında doğrudur?",
+      "correct": "Nil",
+      "options": [
+        "Almanya",
+        "Berlin Duvarı",
+        "Nil",
+        "Süleymaniye Camii"
+      ],
+      "source": "Nil"
+    },
+    {
+      "id": "2aba7c1998f9",
+      "difficulty": 13,
+      "tier": "Uzman",
+      "category": "kişi",
+      "question": "Mesnevi'nin yazarı olan Sufi şairdir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Mevlana",
+      "options": [
+        "William Shakespeare",
+        "Marie Curie",
+        "Mevlana",
+        "Mustafa Kemal Atatürk"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "d081637cb615",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Süveyş Kanalı, Akdeniz'i Kızıldeniz'e bağlayan ve Mısır'ın Osmanlı idaresinde olduğu dönemde açılan… bağlamında doğrudur?",
+      "correct": "Süveyş Kanalı",
+      "options": [
+        "Süveyş Kanalı",
+        "Pisagor",
+        "Ludwig van Beethoven",
+        "And Dağları"
+      ],
+      "source": "Süveyş Kanalı"
+    },
+    {
+      "id": "94b3b886abf5",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Troya veya Truva, Kaz Dağı (İda) eteklerinde tarihî bir kenttir. Çanakkale il… bağlamında doğrudur?",
+      "correct": "Troya",
+      "options": [
+        "Piramit",
+        "Sanayi Devrimi",
+        "Volga",
+        "Troya"
+      ],
+      "source": "Troya"
+    },
+    {
+      "id": "663abb25a052",
+      "difficulty": 9,
+      "tier": "Zor",
+      "category": "genel",
+      "question": "1839'da Osmanlı'da başlayan yenileşme hareketidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Tanzimat",
+      "options": [
+        "Tanzimat",
+        "Kayseri",
+        "Ankara",
+        "Aydın"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "92176fe26017",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "person",
+      "question": "Bu kişi kimdir? Çin Seddi, Çin'in kuzeybatısı boyunca uzanan, dünyanın en uzun savunma duvarıdır. Kalıntıları Po Hay…",
+      "correct": "Çin Seddi",
+      "options": [
+        "Norveç",
+        "Çin Seddi",
+        "Britanya İmparatorluğu",
+        "Karadeniz"
+      ],
+      "source": "Çin Seddi"
+    },
+    {
+      "id": "17ddc5fc3e9f",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "eser",
+      "question": "George Orwell'ın distopik romanıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "1984",
+      "options": [
+        "1984",
+        "1994",
+        "1909",
+        "1979"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "3bb85bb913b0",
+      "difficulty": 10,
+      "tier": "Çok Zor",
+      "category": "kişi",
+      "question": "Seyahatname'nin yazarıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Evliya Çelebi",
+      "options": [
+        "Evliya Çelebi",
+        "Isaac Newton",
+        "Napoleon Bonaparte",
+        "Marie Curie"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "9f3b736ee759",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "kişi",
+      "question": "Alternatif akım sistemlerinin öncüsüdür. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Nikola Tesla",
+      "options": [
+        "Eskişehir",
+        "Nikola Tesla",
+        "İzmir",
+        "Kayseri"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "7ae3d4c91ef7",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "person",
+      "question": "Bu kişi kimdir? Thomas Hobbes, felsefede materyalizmi, etikte haz ahlakını, siyasette monarşiyi benimseyen bir İngiliz filozoftur. En…",
+      "correct": "Thomas Hobbes",
+      "options": [
+        "Voltaire",
+        "Thomas Hobbes",
+        "René Descartes",
+        "Ludwig van Beethoven"
+      ],
+      "source": "Thomas Hobbes"
+    },
+    {
+      "id": "85308dde0d8f",
+      "difficulty": 2,
+      "tier": "Kolay",
+      "category": "kişi",
+      "question": "Türkiye Cumhuriyeti'nin kurucusudur. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Mustafa Kemal Atatürk",
+      "options": [
+        "Hindistan",
+        "Mustafa Kemal Atatürk",
+        "Arjantin",
+        "İtalya"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "eb03d35afb3a",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "şehir",
+      "question": "Türkiye'nin başkentidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Ankara",
+      "options": [
+        "Moskova",
+        "Brüksel",
+        "Tokyo",
+        "Ankara"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "56dbcc61b5b2",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Yangtze Nehri, Yangzi Jiang veya Gök Irmak; Asya'nın en uzun, dünyanın Nil… bağlamında doğrudur?",
+      "correct": "Yangtze",
+      "options": [
+        "Güney Kore",
+        "Almanya",
+        "Yangtze",
+        "Pamukkale"
+      ],
+      "source": "Yangtze"
+    },
+    {
+      "id": "3adbf3ad92de",
+      "difficulty": 3,
+      "tier": "Kolay",
+      "category": "country",
+      "question": "Hangi ülke Almanya, resmî adıyla Federal Almanya Cumhuriyeti, Batı ve Orta Avrupa'da bir ülkedir…?",
+      "correct": "Almanya",
+      "options": [
+        "Britanya İmparatorluğu",
+        "Almanya",
+        "Nil",
+        "Kapadokya"
+      ],
+      "source": "Almanya"
+    },
+    {
+      "id": "e07088b32a5b",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "yıl",
+      "question": "Türkiye Cumhuriyeti ilan edildi. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "1923",
+      "options": [
+        "1823",
+        "1923",
+        "1918",
+        "1943"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "cb3937732055",
+      "difficulty": 2,
+      "tier": "Kolay",
+      "category": "şehir",
+      "question": "Türkiye'nin başkentidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Ankara",
+      "options": [
+        "Stockholm",
+        "Ankara",
+        "İzmir",
+        "Berlin"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "0ae827b62805",
+      "difficulty": 2,
+      "tier": "Kolay",
+      "category": "ülke",
+      "question": "başkenti Tokyo olan Asya ülkesidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Japonya",
+      "options": [
+        "Japonya",
+        "İtalya",
+        "Mısır",
+        "Almanya"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "cbff1c39b6cf",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Göbeklitepe veya Göbekli Tepe, Türkiye'nin Güneydoğu Anadolu Bölgesi'ndeki Şanlıurfa ilinin 18 km… bağlamında doğrudur?",
+      "correct": "Göbeklitepe",
+      "options": [
+        "Türkiye",
+        "Friedrich Nietzsche",
+        "Göbeklitepe",
+        "1492"
+      ],
+      "source": "Göbeklitepe"
+    },
+    {
+      "id": "1ab273d6bd99",
+      "difficulty": 13,
+      "tier": "Uzman",
+      "category": "eser",
+      "question": "Kaşgari'nin Türkçe sözlüğüdür. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Divan-ı Lügati't-Türk",
+      "options": [
+        "Divan-ı Lügati't-Türk",
+        "Denizli",
+        "Balıkesir",
+        "Mersin"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "f315bed546fb",
+      "difficulty": 3,
+      "tier": "Kolay",
+      "category": "country",
+      "question": "Hangi ülke Mısır, resmî adıyla Mısır Arap Cumhuriyeti, Afrika'nın kuzeydoğu köşesi ile Asya'nın güneybatı…?",
+      "correct": "Mısır",
+      "options": [
+        "Panama Kanalı",
+        "Mısır",
+        "Efes",
+        "Mustafa Kemal Atatürk"
+      ],
+      "source": "Mısır"
+    },
+    {
+      "id": "62d5c45640d5",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "genel",
+      "question": "Genetik bilginin saklandığı moleküldür. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "DNA",
+      "options": [
+        "DNA",
+        "Kütle-enerji eşdeğerliği",
+        "Kara delik",
+        "Germ teorisi"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "f366310d3f43",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "kişi",
+      "question": "Evrim kuramını ortaya atan bilim insanıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Charles Darwin",
+      "options": [
+        "Napoleon Bonaparte",
+        "Nikola Tesla",
+        "Aristoteles",
+        "Charles Darwin"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "b9ab8f501ae8",
+      "difficulty": 2,
+      "tier": "Kolay",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Sanayi Devrimi veya Endüstri Devrimi, insanlık tarihinin Tarım Devrimi'nden sonraki en köklü… bağlamında doğrudur?",
+      "correct": "Sanayi Devrimi",
+      "options": [
+        "Karadeniz",
+        "Sanayi Devrimi",
+        "Çanakkale Savaşı",
+        "Cebelitarık Boğazı"
+      ],
+      "source": "Sanayi Devrimi"
+    },
+    {
+      "id": "f0dd7becad1e",
+      "difficulty": 11,
+      "tier": "Çok Zor",
+      "category": "kişi",
+      "question": "Osmanlı tarihçi ve coğrafyacısıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Kâtip Çelebi",
+      "options": [
+        "1945",
+        "Kâtip Çelebi",
+        "1517",
+        "1869"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "2a18eb121adf",
+      "difficulty": 11,
+      "tier": "Çok Zor",
+      "category": "genel",
+      "question": "Kütle oluşumunu açıklayan parçacıktır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Higgs bozonu",
+      "options": [
+        "Gaziantep",
+        "Trabzon",
+        "Higgs bozonu",
+        "Antalya"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "d7e3dbec4088",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "kişi",
+      "question": "Radyoaktivite araştırmalarıyla Nobel alan bilim insanıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Marie Curie",
+      "options": [
+        "Platon",
+        "Albert Einstein",
+        "Mozart",
+        "Marie Curie"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "c7510ed87835",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "kişi",
+      "question": "Radyoaktivite araştırmalarıyla Nobel alan bilim insanıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Marie Curie",
+      "options": [
+        "Marie Curie",
+        "Galileo Galilei",
+        "Platon",
+        "Charles Darwin"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "6803d96d8e92",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "kişi",
+      "question": "Alternatif akım sistemlerinin öncüsüdür. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Nikola Tesla",
+      "options": [
+        "Nikola Tesla",
+        "Konya",
+        "Diyarbakır",
+        "Aydın"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "760dfa4db2c8",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "eser",
+      "question": "Dostoyevski'nin ünlü romanıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Suç ve Ceza",
+      "options": [
+        "Hamlet",
+        "Suç ve Ceza",
+        "Gulliver'in Gezileri",
+        "Odysseia"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "397749054237",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Piramit dış yüzeyleri üçgen olan ve üstte tek bir noktada birleşen ve… bağlamında doğrudur?",
+      "correct": "Piramit",
+      "options": [
+        "Pamukkale",
+        "Voltaire",
+        "Piramit",
+        "Ayasofya"
+      ],
+      "source": "Piramit"
+    },
+    {
+      "id": "068de13e82fc",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "genel",
+      "question": "Işığın bile kaçamadığı gök cismidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Kara delik",
+      "options": [
+        "Kayseri",
+        "Mersin",
+        "Kara delik",
+        "Edirne"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "ea36d7e396fe",
+      "difficulty": 3,
+      "tier": "Kolay",
+      "category": "yıl",
+      "question": "İstanbul'un fethi gerçekleşti. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "1453",
+      "options": [
+        "1528",
+        "1433",
+        "1428",
+        "1453"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "641e177a6eff",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "kişi",
+      "question": "Alternatif akım sistemlerinin öncüsüdür. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Nikola Tesla",
+      "options": [
+        "Nikola Tesla",
+        "İzmir",
+        "Denizli",
+        "Antalya"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "12581822a7aa",
+      "difficulty": 8,
+      "tier": "Zor",
+      "category": "kişi",
+      "question": "Osmanlı'nın en ünlü mimarıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Mimar Sinan",
+      "options": [
+        "Mimar Sinan",
+        "Mersin",
+        "Balıkesir",
+        "Samsun"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "928e0d6e6469",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "country",
+      "question": "Hangi ülke Türkiye, resmî adıyla Türkiye Cumhuriyeti, topraklarının büyük bölümü Batı Asya'da Anadolu'da, diğer…?",
+      "correct": "Türkiye",
+      "options": [
+        "Ay",
+        "Türkiye",
+        "I. Dünya Savaşı",
+        "Moğol İmparatorluğu"
+      ],
+      "source": "Türkiye"
+    },
+    {
+      "id": "f7582b4d63ff",
+      "difficulty": 10,
+      "tier": "Çok Zor",
+      "category": "eser",
+      "question": "Yusuf Has Hacib'in mesnevisidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Kutadgu Bilig",
+      "options": [
+        "Diyarbakır",
+        "Muğla",
+        "Aydın",
+        "Kutadgu Bilig"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "84c35e15ab59",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "eser",
+      "question": "Dostoyevski'nin ünlü romanıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Suç ve Ceza",
+      "options": [
+        "Suç ve Ceza",
+        "Dracula",
+        "Gulliver'in Gezileri",
+        "İlyada"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "6571071e237a",
+      "difficulty": 12,
+      "tier": "Uzman",
+      "category": "eser",
+      "question": "Türklerin en eski yazılı belgeleridir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Orhun Yazıtları",
+      "options": [
+        "Antalya",
+        "Orhun Yazıtları",
+        "Konya",
+        "Bursa"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "3a7cf4dea167",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "kişi",
+      "question": "Hamlet ve Romeo ve Juliet'in yazarıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "William Shakespeare",
+      "options": [
+        "Mozart",
+        "William Shakespeare",
+        "Pythagoras",
+        "Aristoteles"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "699f125afcef",
+      "difficulty": 11,
+      "tier": "Çok Zor",
+      "category": "kişi",
+      "question": "Mesnevi'nin yazarı olan Sufi şairdir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Mevlana",
+      "options": [
+        "Winston Churchill",
+        "Albert Einstein",
+        "Platon",
+        "Mevlana"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "cadd88caf3f4",
+      "difficulty": 7,
+      "tier": "Zor",
+      "category": "kişi",
+      "question": "Kapital adlı eserin yazarıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Karl Marx",
+      "options": [
+        "Pablo Picasso",
+        "Aristoteles",
+        "Vincent van Gogh",
+        "Karl Marx"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "13f32a9ed2f1",
+      "difficulty": 11,
+      "tier": "Çok Zor",
+      "category": "genel",
+      "question": "Gelişimsel hesap bozukluğu olarak da bilinir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Travmatik matematik",
+      "options": [
+        "Edirne",
+        "Travmatik matematik",
+        "Sakarya",
+        "Trabzon"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "f055aabc2373",
+      "difficulty": 10,
+      "tier": "Çok Zor",
+      "category": "kişi",
+      "question": "Osmanlı tarihçi ve coğrafyacısıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Kâtip Çelebi",
+      "options": [
+        "1969",
+        "1453",
+        "2000",
+        "Kâtip Çelebi"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "d8a9c5a6dfb3",
+      "difficulty": 8,
+      "tier": "Zor",
+      "category": "kişi",
+      "question": "Osmanlı astronom ve matematikçisidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Ali Kuşçu",
+      "options": [
+        "Winston Churchill",
+        "Ali Kuşçu",
+        "Platon",
+        "Aristoteles"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "2c3e45de2028",
+      "difficulty": 14,
+      "tier": "Profesör",
+      "category": "genel",
+      "question": "Gelişimsel hesap bozukluğu olarak da bilinir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Travmatik matematik",
+      "options": [
+        "Kayseri",
+        "Diyarbakır",
+        "Ankara",
+        "Travmatik matematik"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "156456979754",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "eser",
+      "question": "Victor Hugo'nun ünlü romanıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Sefiller",
+      "options": [
+        "Nutuk",
+        "Sefiller",
+        "Divine Comedy",
+        "Savaş ve Barış"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "9fe14d5a9352",
+      "difficulty": 15,
+      "tier": "Final",
+      "category": "kişi",
+      "question": "Osmanlı tarihçi ve coğrafyacısıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Kâtip Çelebi",
+      "options": [
+        "1929",
+        "1783",
+        "2000",
+        "Kâtip Çelebi"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "773986f38e1c",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "person",
+      "question": "Bu kişi kimdir? Sokrates, Batı felsefesinin kurucularından biri olarak kabul edilen ve ahlaki düşünce geleneğine öncülük eden…",
+      "correct": "Sokrates",
+      "options": [
+        "Galileo Galilei",
+        "Winston Churchill",
+        "Nikola Tesla",
+        "Sokrates"
+      ],
+      "source": "Sokrates"
+    },
+    {
+      "id": "b15965d7f1fb",
+      "difficulty": 3,
+      "tier": "Kolay",
+      "category": "place",
+      "question": "Hangi şehir Tokyo, Japonya'nın başkenti ve en kalabalık şehridir. 2023 yılında şehir merkezinde 14…?",
+      "correct": "Tokyo",
+      "options": [
+        "Panama Kanalı",
+        "Tokyo",
+        "Moğol İmparatorluğu",
+        "Tac Mahal"
+      ],
+      "source": "Tokyo"
+    },
+    {
+      "id": "cee839e67fb6",
+      "difficulty": 14,
+      "tier": "Profesör",
+      "category": "genel",
+      "question": "Evrenin sınırsız olduğu öğretisini savunan filozoftur. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Anaximandros",
+      "options": [
+        "Isaac Newton",
+        "Anaximandros",
+        "Nikola Tesla",
+        "Beethoven"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "e6120b708140",
+      "difficulty": 9,
+      "tier": "Zor",
+      "category": "kişi",
+      "question": "Osmanlı astronom ve matematikçisidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Ali Kuşçu",
+      "options": [
+        "Mozart",
+        "Platon",
+        "Ali Kuşçu",
+        "Beethoven"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "c95275744d49",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Kore Savaşı 1950-1953 yılları arasında yapılan, Kuzey Kore ile Güney Kore arasındaki… bağlamında doğrudur?",
+      "correct": "Kore Savaşı",
+      "options": [
+        "Baruch Spinoza",
+        "Sokrates",
+        "Sefiller",
+        "Kore Savaşı"
+      ],
+      "source": "Kore Savaşı"
+    },
+    {
+      "id": "9eceaddfac97",
+      "difficulty": 3,
+      "tier": "Kolay",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Wolfgang Amadeus Mozart veya vaftiz adıyla Johannes Chrysostomus Wolfgangus Theophilus Mozart, Klasik… bağlamında doğrudur?",
+      "correct": "Wolfgang Amadeus Mozart",
+      "options": [
+        "Bursa",
+        "Charles Darwin",
+        "Rönesans",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "source": "Wolfgang Amadeus Mozart"
+    },
+    {
+      "id": "2ef7d5cd1b7f",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "kişi",
+      "question": "Görelilik kuramını geliştiren fizikçidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Albert Einstein",
+      "options": [
+        "Albert Einstein",
+        "Mozart",
+        "Charles Darwin",
+        "Aristoteles"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "4ea8389b151b",
+      "difficulty": 11,
+      "tier": "Çok Zor",
+      "category": "genel",
+      "question": "Evrenin sınırsız olduğu öğretisini savunan filozoftur. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Anaximandros",
+      "options": [
+        "Galileo Galilei",
+        "Beethoven",
+        "Anaximandros",
+        "Pythagoras"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "55c153bf41dc",
+      "difficulty": 10,
+      "tier": "Çok Zor",
+      "category": "eser",
+      "question": "Kaşgari'nin Türkçe sözlüğüdür. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Divan-ı Lügati't-Türk",
+      "options": [
+        "Denizli",
+        "Edirne",
+        "Kayseri",
+        "Divan-ı Lügati't-Türk"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "639ff1e14876",
+      "difficulty": 9,
+      "tier": "Zor",
+      "category": "kişi",
+      "question": "Osmanlı denizcisi ve haritacıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Piri Reis",
+      "options": [
+        "Rocky Dağları",
+        "Volga Nehri",
+        "Kızılderme",
+        "Piri Reis"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "1f6c68357cfc",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Charles-Louis de Secondat, baron de La Brède et de Montesquieu, daha çok… bağlamında doğrudur?",
+      "correct": "Montesquieu",
+      "options": [
+        "Topkapı Sarayı",
+        "Baruch Spinoza",
+        "Vikingler",
+        "Montesquieu"
+      ],
+      "source": "Montesquieu"
+    },
+    {
+      "id": "9a4ee439e9eb",
+      "difficulty": 8,
+      "tier": "Zor",
+      "category": "kişi",
+      "question": "Böyle Söyleydi Zerdüşt'ün yazarıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Friedrich Nietzsche",
+      "options": [
+        "Mozart",
+        "Vincent van Gogh",
+        "Friedrich Nietzsche",
+        "Pythagoras"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "3db073db99a6",
+      "difficulty": 3,
+      "tier": "Kolay",
+      "category": "şehir",
+      "question": "Türkiye'nin başkentidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Ankara",
+      "options": [
+        "Atina",
+        "Moskova",
+        "Oslo",
+        "Ankara"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "4cbdbc45e942",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Akdeniz, Avrupa, Asya ve Afrika arasında yer alan kıtalararası bir denizdir. Akdeniz… bağlamında doğrudur?",
+      "correct": "Akdeniz",
+      "options": [
+        "Akdeniz",
+        "DNA",
+        "Troya",
+        "I. Dünya Savaşı"
+      ],
+      "source": "Akdeniz"
+    },
+    {
+      "id": "24abd324909a",
+      "difficulty": 13,
+      "tier": "Uzman",
+      "category": "genel",
+      "question": "Gelişimsel hesap bozukluğu olarak da bilinir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Travmatik matematik",
+      "options": [
+        "Gaziantep",
+        "İzmir",
+        "Travmatik matematik",
+        "Diyarbakır"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "023ee3b4c93b",
+      "difficulty": 15,
+      "tier": "Final",
+      "category": "eser",
+      "question": "Kaşgari'nin Türkçe sözlüğüdür. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Divan-ı Lügati't-Türk",
+      "options": [
+        "Divan-ı Lügati't-Türk",
+        "Mersin",
+        "Eskişehir",
+        "Kayseri"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "6332811124f0",
+      "difficulty": 3,
+      "tier": "Kolay",
+      "category": "şehir",
+      "question": "Fransa'nın başkentidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Paris",
+      "options": [
+        "İzmir",
+        "Moskova",
+        "Atina",
+        "Paris"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "1ca320cea8ca",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Pamukkale, Türkiye'nin güneybatısındaki Denizli ilinde yer alan doğal bir mevkidir. Kent, termal… bağlamında doğrudur?",
+      "correct": "Pamukkale",
+      "options": [
+        "Galileo Galilei",
+        "Akdeniz",
+        "Pamukkale",
+        "Londra"
+      ],
+      "source": "Pamukkale"
+    },
+    {
+      "id": "afcd5b41da37",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "person",
+      "question": "Bu kişi kimdir? Moğol İmparatorluğu, 13. ve 14. yüzyıllarda tarihin en büyük bitişik imparatorluğuydu. Doğu Asya'da bugünkü…",
+      "correct": "Moğol İmparatorluğu",
+      "options": [
+        "Moğol İmparatorluğu",
+        "Yangtze",
+        "Süveyş Kanalı",
+        "Karl Marx"
+      ],
+      "source": "Moğol İmparatorluğu"
+    },
+    {
+      "id": "b1a9f2d38a4d",
+      "difficulty": 11,
+      "tier": "Çok Zor",
+      "category": "eser",
+      "question": "Türklerin en eski yazılı belgeleridir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Orhun Yazıtları",
+      "options": [
+        "Samsun",
+        "Aydın",
+        "Orhun Yazıtları",
+        "Antalya"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "cc4014ff624c",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "ülke",
+      "question": "başkenti Roma olan Avrupa ülkesidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "İtalya",
+      "options": [
+        "İtalya",
+        "Yunanistan",
+        "Hindistan",
+        "Brezilya"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "7b1cbe6e952d",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "person",
+      "question": "Bu kişi kimdir? Friedrich Wilhelm Nietzsche, Alman klasik filolog ve filozoftur. Nietzsche'nin fikirleri ve üslubu, yerleşik düşünce…",
+      "correct": "Friedrich Nietzsche",
+      "options": [
+        "İstanbul",
+        "Beethoven",
+        "Yangtze",
+        "Friedrich Nietzsche"
+      ],
+      "source": "Friedrich Nietzsche"
+    },
+    {
+      "id": "0bee469abec1",
+      "difficulty": 15,
+      "tier": "Final",
+      "category": "kişi",
+      "question": "Seyahatname'nin yazarıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Evliya Çelebi",
+      "options": [
+        "Vincent van Gogh",
+        "Marie Curie",
+        "Evliya Çelebi",
+        "Albert Einstein"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "e41df40bed5f",
+      "difficulty": 12,
+      "tier": "Uzman",
+      "category": "kişi",
+      "question": "Osmanlı tarihçi ve coğrafyacısıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Kâtip Çelebi",
+      "options": [
+        "1945",
+        "2000",
+        "1989",
+        "Kâtip Çelebi"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "0dc5ba14d3b2",
+      "difficulty": 10,
+      "tier": "Çok Zor",
+      "category": "kişi",
+      "question": "Mesnevi'nin yazarı olan Sufi şairdir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Mevlana",
+      "options": [
+        "Beethoven",
+        "Napoleon Bonaparte",
+        "Mevlana",
+        "Sokrates"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "226bfc957174",
+      "difficulty": 3,
+      "tier": "Kolay",
+      "category": "şehir",
+      "question": "Türkiye'nin en kalabalık şehridir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "İstanbul",
+      "options": [
+        "Sakarya",
+        "Konya",
+        "Diyarbakır",
+        "İstanbul"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "3e764f44d94e",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "person",
+      "question": "Bu kişi kimdir? Baruch Spinoza, Yahudi kökenli Hollandalı filozof. Aydınlanmanın erken dönem düşünürlerinden olan Spinoza, evren ve…",
+      "correct": "Baruch Spinoza",
+      "options": [
+        "Baruch Spinoza",
+        "İstanbul'un Fethi",
+        "Ludwig van Beethoven",
+        "Mozart"
+      ],
+      "source": "Baruch Spinoza"
+    },
+    {
+      "id": "187b2221ec2d",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Herodotos veya Herodot, MÖ 5. yüzyılda Pers kontrolü altındaki, Halikarnas adlı Yunan… bağlamında doğrudur?",
+      "correct": "Herodot",
+      "options": [
+        "Herodot",
+        "Rönesans",
+        "Sanayi Devrimi",
+        "1789"
+      ],
+      "source": "Herodot"
+    },
+    {
+      "id": "55265a93371d",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Panama Kanalı, Orta Amerika'nın en güney ülkesi Panama topraklarında yer alır ve… bağlamında doğrudur?",
+      "correct": "Panama Kanalı",
+      "options": [
+        "Marie Curie",
+        "Panama Kanalı",
+        "Thomas Hobbes",
+        "Hint Okyanusu"
+      ],
+      "source": "Panama Kanalı"
+    },
+    {
+      "id": "f94f742a6d2f",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "country",
+      "question": "Hangi ülke Türk Kurtuluş Savaşı, I. Dünya Savaşı'ndan yenik çıkan Osmanlı İmparatorluğu'nun İtilaf Devletleri'nce…?",
+      "correct": "Türk Kurtuluş Savaşı",
+      "options": [
+        "Amerikan Bağımsızlık Savaşı",
+        "Sefiller",
+        "Türk Kurtuluş Savaşı",
+        "Sahra"
+      ],
+      "source": "Türk Kurtuluş Savaşı"
+    },
+    {
+      "id": "05877a494fc3",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Cebelitarık Boğazı, Akdeniz ile Atlas Okyanusu'nu birleştiren, Avrupa ile Afrika kıtalarını ayıran… bağlamında doğrudur?",
+      "correct": "Cebelitarık Boğazı",
+      "options": [
+        "Himalayalar",
+        "Cebelitarık Boğazı",
+        "Yunanistan",
+        "William Shakespeare"
+      ],
+      "source": "Cebelitarık Boğazı"
+    },
+    {
+      "id": "19a5bfa67089",
+      "difficulty": 4,
+      "tier": "Orta",
+      "category": "person",
+      "question": "Bu kişi kimdir? René Descartes ; bir Fransız filozof, matematikçi ve bilim insanıydı. Daha önce birbirinden ayrı…",
+      "correct": "René Descartes",
+      "options": [
+        "René Descartes",
+        "Sahra",
+        "Nikola Tesla",
+        "Friedrich Nietzsche"
+      ],
+      "source": "René Descartes"
+    },
+    {
+      "id": "71ffa51a3bc6",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Galileo Galilei, İtalyan astronom, fizikçi, mühendis, filozof ve matematikçidir. bağlamında doğrudur?",
+      "correct": "Galileo Galilei",
+      "options": [
+        "Akdeniz",
+        "Galileo Galilei",
+        "Kolezyum",
+        "Marie Curie"
+      ],
+      "source": "Galileo Galilei"
+    },
+    {
+      "id": "d486b518876b",
+      "difficulty": 14,
+      "tier": "Profesör",
+      "category": "kişi",
+      "question": "Osmanlı tarihçi ve coğrafyacısıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Kâtip Çelebi",
+      "options": [
+        "1923",
+        "Kâtip Çelebi",
+        "1939",
+        "1815"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "defa8b427c86",
+      "difficulty": 3,
+      "tier": "Kolay",
+      "category": "place",
+      "question": "Hangi şehir Berlin, hem yüzölçümü hem de nüfus bakımından Almanya'nın başkenti ve en büyük…?",
+      "correct": "Berlin",
+      "options": [
+        "Rocky Dağları",
+        "Berlin",
+        "I. Dünya Savaşı",
+        "Tokyo"
+      ],
+      "source": "Berlin"
+    },
+    {
+      "id": "96dda56b123f",
+      "difficulty": 10,
+      "tier": "Çok Zor",
+      "category": "genel",
+      "question": "Evrenin kütlesinin büyük kısmını oluşturduğu düşünülen maddedir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Karanlık madde",
+      "options": [
+        "Aydın",
+        "Karanlık madde",
+        "Kayseri",
+        "Muğla"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "f028649f1264",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "person",
+      "question": "Bu kişi kimdir? Ludwig van Beethoven, Klasik dönemden Romantik döneme geçiş sürecine büyük katkı sağlamış ve gelmiş…",
+      "correct": "Ludwig van Beethoven",
+      "options": [
+        "Ludwig van Beethoven",
+        "Paris",
+        "David Hume",
+        "Bering Boğazı"
+      ],
+      "source": "Ludwig van Beethoven"
+    },
+    {
+      "id": "7960d486c3a8",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "person",
+      "question": "Bu kişi kimdir? Sigmund Freud veya doğum adıyla Sigismund Schlomo Freud, psikolojinin en önemli alt dallarından biri…",
+      "correct": "Sigmund Freud",
+      "options": [
+        "Himalayalar",
+        "Nil",
+        "Sigmund Freud",
+        "Kore Savaşı"
+      ],
+      "source": "Sigmund Freud"
+    },
+    {
+      "id": "17591e3a1b0c",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Volga ya da İdil Avrupa'nın en uzun ırmağıdır. Rusça Volga adı Ana… bağlamında doğrudur?",
+      "correct": "Volga",
+      "options": [
+        "Volga",
+        "Akdeniz",
+        "Atom teorisi",
+        "Immanuel Kant"
+      ],
+      "source": "Volga"
+    },
+    {
+      "id": "87386c52139f",
+      "difficulty": 13,
+      "tier": "Uzman",
+      "category": "genel",
+      "question": "Evrenin sınırsız olduğu öğretisini savunan filozoftur. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Anaximandros",
+      "options": [
+        "Cicero",
+        "Leonardo da Vinci",
+        "Anaximandros",
+        "Isaac Newton"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "0f540350bcc1",
+      "difficulty": 7,
+      "tier": "Zor",
+      "category": "kişi",
+      "question": "Osmanlı denizcisi ve haritacıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Piri Reis",
+      "options": [
+        "Tuna Nehri",
+        "Piri Reis",
+        "Himalayalar",
+        "Pasifik Okyanusu"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "dd2cd7faef60",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "ülke",
+      "question": "başkenti Madrid olan Avrupa ülkesidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "İspanya",
+      "options": [
+        "Japonya",
+        "İspanya",
+        "Arjantin",
+        "Kanada"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "afcd5b41da37",
+      "difficulty": 12,
+      "tier": "Uzman",
+      "category": "person",
+      "question": "Bu kişi kimdir? Moğol İmparatorluğu, 13. ve 14. yüzyıllarda tarihin en büyük bitişik imparatorluğuydu. Doğu Asya'da bugünkü…",
+      "correct": "Moğol İmparatorluğu",
+      "options": [
+        "Roma",
+        "Yangtze",
+        "Moğol İmparatorluğu",
+        "Napolyon Bonapart"
+      ],
+      "source": "Moğol İmparatorluğu"
+    },
+    {
+      "id": "10852829b83c",
+      "difficulty": 7,
+      "tier": "Zor",
+      "category": "genel",
+      "question": "1071'de Türklerin Anadolu'ya girişini sağlayan savaştır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Manzikert Muharebesi",
+      "options": [
+        "Manzikert Muharebesi",
+        "Ankara",
+        "Sakarya",
+        "Denizli"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "defcbfd707e7",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Hint Okyanusu, kuzeyde Asya, batıda Afrika ve Arabistan Yarımadası, doğuda Malay Yarımadası… bağlamında doğrudur?",
+      "correct": "Hint Okyanusu",
+      "options": [
+        "Elektromanyetizma",
+        "Entropi",
+        "Efes",
+        "Hint Okyanusu"
+      ],
+      "source": "Hint Okyanusu"
+    },
+    {
+      "id": "7567f983095d",
+      "difficulty": 13,
+      "tier": "Uzman",
+      "category": "genel",
+      "question": "Evrenin kütlesinin büyük kısmını oluşturduğu düşünülen maddedir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Karanlık madde",
+      "options": [
+        "Karanlık madde",
+        "Eskişehir",
+        "Tekirdağ",
+        "Aydın"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "b1be1a0c1a58",
+      "difficulty": 8,
+      "tier": "Zor",
+      "category": "eser",
+      "question": "Oğuz Atay'ın ünlü romanıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Tutunamayanlar",
+      "options": [
+        "Odysseia",
+        "Don Kişot",
+        "Tutunamayanlar",
+        "1984"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "011f68ec932f",
+      "difficulty": 8,
+      "tier": "Zor",
+      "category": "genel",
+      "question": "1839'da Osmanlı'da başlayan yenileşme hareketidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Tanzimat",
+      "options": [
+        "Diyarbakır",
+        "Konya",
+        "Tanzimat",
+        "Mersin"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "c8a9925fd4fc",
+      "difficulty": 2,
+      "tier": "Kolay",
+      "category": "person",
+      "question": "Tac Mahal ile ilgili aşağıdakilerden hangisi doğrudur? (Tac Mahal, Hindistan'ın Uttar Pradeş eyaletindeki Agra şehrinde, Yamuna Nehri'nin…)",
+      "correct": "1631",
+      "options": [
+        "1631",
+        "1706",
+        "1831",
+        "1531"
+      ],
+      "source": "Tac Mahal"
+    },
+    {
+      "id": "32c0bc51ff30",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "country",
+      "question": "Hangi ülke Çanakkale Savaşı veya Çanakkale Muharebeleri, I. Dünya Savaşı sırasında 1915-1916 yılları arasında…?",
+      "correct": "Çanakkale Savaşı",
+      "options": [
+        "Çanakkale Savaşı",
+        "Soğuk Savaş",
+        "İbn Sina",
+        "Baruch Spinoza"
+      ],
+      "source": "Çanakkale Savaşı"
+    },
+    {
+      "id": "1b563d8a8573",
+      "difficulty": 3,
+      "tier": "Kolay",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Deoksiriboz nükleik asit veya kısaca DNA, tüm organizmaların ve bazı virüslerin canlılık… bağlamında doğrudur?",
+      "correct": "DNA",
+      "options": [
+        "Volga",
+        "DNA",
+        "Efes",
+        "Vikingler"
+      ],
+      "source": "DNA"
+    },
+    {
+      "id": "b4f804917fc5",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "kişi",
+      "question": "Türkiye Cumhuriyeti'nin kurucusudur. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Mustafa Kemal Atatürk",
+      "options": [
+        "Mustafa Kemal Atatürk",
+        "Japonya",
+        "Brezilya",
+        "İspanya"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "d35d40201aa8",
+      "difficulty": 3,
+      "tier": "Kolay",
+      "category": "ülke",
+      "question": "başkenti Roma olan Avrupa ülkesidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "İtalya",
+      "options": [
+        "Fransa",
+        "İtalya",
+        "Arjantin",
+        "Çin"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "f0796f494fe3",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Kapadokya, 60 milyon yıl önce Erciyes, Hasandağı ve Göllüdağ’ın püskürttüğü lav ve… bağlamında doğrudur?",
+      "correct": "Kapadokya",
+      "options": [
+        "Kapadokya",
+        "Thomas Hobbes",
+        "Türk Kurtuluş Savaşı",
+        "Anıtkabir"
+      ],
+      "source": "Kapadokya"
+    },
+    {
+      "id": "4df795ae886c",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "genel",
+      "question": "Genetik bilginin saklandığı moleküldür. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "DNA",
+      "options": [
+        "Entropi",
+        "Atom teorisi",
+        "DNA",
+        "Kuantum mekaniği"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "722ff53c607d",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "şehir",
+      "question": "Türkiye'nin en kalabalık şehridir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "İstanbul",
+      "options": [
+        "Balıkesir",
+        "Sakarya",
+        "İstanbul",
+        "Gaziantep"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "06c4c6cfee0f",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "person",
+      "question": "Bu kişi kimdir? İbn Sînâ veya Ebu Ali Sînâ ya da Batılıların söyleyişiyle Avicenna, İslam'ın Altın Çağı…",
+      "correct": "İbn Sina",
+      "options": [
+        "Vietnam Savaşı",
+        "Topkapı Sarayı",
+        "İbn Sina",
+        "Vincent van Gogh"
+      ],
+      "source": "İbn Sina"
+    },
+    {
+      "id": "4cdcae3b96b5",
+      "difficulty": 8,
+      "tier": "Zor",
+      "category": "eser",
+      "question": "Mustafa Kemal Atatürk'ün söylevidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Nutuk",
+      "options": [
+        "Nutuk",
+        "Sakarya",
+        "Muğla",
+        "Eskişehir"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "cde4dc9e1639",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "person",
+      "question": "Bu kişi kimdir? Charles Robert Darwin, evrimsel biyolojiye yaptığı katkılarla tanınan İngiliz doğa bilimci, jeolog ve biyologdur…",
+      "correct": "Charles Darwin",
+      "options": [
+        "Napoleon Bonaparte",
+        "Çanakkale Savaşı",
+        "Charles Darwin",
+        "Dolmabahçe Sarayı"
+      ],
+      "source": "Charles Darwin"
+    },
+    {
+      "id": "67aa7e5cdd0f",
+      "difficulty": 8,
+      "tier": "Zor",
+      "category": "kişi",
+      "question": "Kapital adlı eserin yazarıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Karl Marx",
+      "options": [
+        "Cicero",
+        "Beethoven",
+        "Karl Marx",
+        "Galileo Galilei"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "5031649ee810",
+      "difficulty": 3,
+      "tier": "Kolay",
+      "category": "ülke",
+      "question": "başkenti Paris olan Avrupa ülkesidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Fransa",
+      "options": [
+        "Çin",
+        "Rusya",
+        "Japonya",
+        "Fransa"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "d3cdd1f0dcea",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Soğuk Savaş, ABD liderliğindeki Batı Bloku ile Sovyetler Birliği önderliğindeki Doğu Bloku… bağlamında doğrudur?",
+      "correct": "Soğuk Savaş",
+      "options": [
+        "Atlas Okyanusu",
+        "Soğuk Savaş",
+        "René Descartes",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "source": "Soğuk Savaş"
+    },
+    {
+      "id": "8d6affa81c6d",
+      "difficulty": 3,
+      "tier": "Kolay",
+      "category": "person",
+      "question": "Bu kişi kimdir? II. Dünya Savaşı, 1939'dan 1945'e kadar süren küresel savaştır. Savaşa dönemin büyük güçleri ve…",
+      "correct": "II. Dünya Savaşı",
+      "options": [
+        "Roma",
+        "II. Dünya Savaşı",
+        "Mars",
+        "Kolezyum"
+      ],
+      "source": "II. Dünya Savaşı"
+    },
+    {
+      "id": "9cef6008241c",
+      "difficulty": 7,
+      "tier": "Zor",
+      "category": "genel",
+      "question": "Akdeniz ile Kızıldeniz'i birleştiren kanaldır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Süveyş Kanalı",
+      "options": [
+        "Bering Boğazı",
+        "Süveyş Kanalı",
+        "Karadeniz",
+        "Sahra Çölü"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "2a57fe85a498",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Mars, Güneş Sistemi'nin Güneş'ten itibaren dördüncü gezegeni. Roma mitolojisindeki savaş tanrısı Mars'a… bağlamında doğrudur?",
+      "correct": "Mars",
+      "options": [
+        "Çanakkale Savaşı",
+        "Immanuel Kant",
+        "DNA",
+        "Mars"
+      ],
+      "source": "Mars"
+    },
+    {
+      "id": "727de7cc9d04",
+      "difficulty": 5,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Hippokrates veya Hipokrat, ayrıca II. Hipokrat olarak da bilinen ve tıbbın babası… bağlamında doğrudur?",
+      "correct": "Hipokrat",
+      "options": [
+        "Cebelitarık Boğazı",
+        "Osmanlı İmparatorluğu",
+        "Pablo Picasso",
+        "Hipokrat"
+      ],
+      "source": "Hipokrat"
+    },
+    {
+      "id": "6e5531f7bcab",
+      "difficulty": 2,
+      "tier": "Kolay",
+      "category": "yıl",
+      "question": "İstanbul'un fethi gerçekleşti. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "1453",
+      "options": [
+        "1453",
+        "1473",
+        "1428",
+        "1478"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "b183b6104165",
+      "difficulty": 12,
+      "tier": "Uzman",
+      "category": "genel",
+      "question": "Kütle oluşumunu açıklayan parçacıktır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Higgs bozonu",
+      "options": [
+        "Trabzon",
+        "Eskişehir",
+        "Higgs bozonu",
+        "Konya"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "ef06629bc44a",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "concept",
+      "question": "Aşağıdakilerden hangisi Süleymaniye Camii, İstanbul'un Üçüncü Tepesi üzerinde yer alan bir Osmanlı imparatorluk camisidir… ile ilgili bir kavramdır?",
+      "correct": "Süleymaniye Camii",
+      "options": [
+        "İngiltere",
+        "Süleymaniye Camii",
+        "Polonya",
+        "Volga"
+      ],
+      "source": "Süleymaniye Camii"
+    },
+    {
+      "id": "fe334ea24cfa",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Marco Polo, 1271 ile 1295 yılları arasında İpek Yolu üzerinden Asya'yı dolaşan… bağlamında doğrudur?",
+      "correct": "Marco Polo",
+      "options": [
+        "Amazon Nehri",
+        "Selimiye Camii",
+        "Marco Polo",
+        "Kapadokya"
+      ],
+      "source": "Marco Polo"
+    },
+    {
+      "id": "251b06211744",
+      "difficulty": 3,
+      "tier": "Kolay",
+      "category": "ülke",
+      "question": "başkenti Madrid olan Avrupa ülkesidir. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "İspanya",
+      "options": [
+        "İspanya",
+        "Japonya",
+        "Çin",
+        "Polonya"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "dcb2dbd9f5b0",
+      "difficulty": 8,
+      "tier": "Zor",
+      "category": "genel",
+      "question": "Akdeniz ile Kızıldeniz'i birleştiren kanaldır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Süveyş Kanalı",
+      "options": [
+        "Ege Denizi",
+        "Hint Okyanusu",
+        "Süveyş Kanalı",
+        "Bering Boğazı"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "0eb417088c5d",
+      "difficulty": 2,
+      "tier": "Kolay",
+      "category": "person",
+      "question": "Napolyon Bonapart ile ilgili aşağıdakilerden hangisi doğrudur? (Napolyon Bonapart veya I. Napolyon kısaca Napolyon, Fransız asker, politikacı…)",
+      "correct": "1804",
+      "options": [
+        "1824",
+        "1814",
+        "1904",
+        "1804"
+      ],
+      "source": "Napolyon Bonapart"
+    },
+    {
+      "id": "fde3acaeeb7c",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Rönesans, Orta Çağ ve Reform arasındaki tarihsel dönem olarak bilinir. 15 -… bağlamında doğrudur?",
+      "correct": "Rönesans",
+      "options": [
+        "Pisagor",
+        "Süleymaniye Camii",
+        "Rönesans",
+        "Ay"
+      ],
+      "source": "Rönesans"
+    },
+    {
+      "id": "5cceb0d25ca2",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "eser",
+      "question": "Victor Hugo'nun ünlü romanıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Sefiller",
+      "options": [
+        "Sefiller",
+        "Savaş ve Barış",
+        "Gulliver'in Gezileri",
+        "Cesur Yeni Dünya"
+      ],
+      "source": "static"
+    },
+    {
+      "id": "983e2bf66cac",
+      "difficulty": 6,
+      "tier": "Orta",
+      "category": "general",
+      "question": "Aşağıdaki ifadelerden hangisi Vikingler ya da Norslar, İskandinavyalı korsan ve tüccar kavimlerdir. Aslında \"Viking\" veya… bağlamında doğrudur?",
+      "correct": "Vikingler",
+      "options": [
+        "1903",
+        "1989",
+        "Türk Kurtuluş Savaşı",
+        "Vikingler"
+      ],
+      "source": "Vikingler"
+    },
+    {
+      "id": "44f433de3377",
+      "difficulty": 1,
+      "tier": "Kolay",
+      "category": "place",
+      "question": "Hangi şehir İstanbul'un Fethi, Kostantiniyye'nin Fethi veya Batı dünyasındaki adıyla Konstantinopolis'in Düşüşü, 6 Nisan…?",
+      "correct": "İstanbul'un Fethi",
+      "options": [
+        "Rusya",
+        "Wolfgang Amadeus Mozart",
+        "İstanbul'un Fethi",
+        "Topkapı Sarayı"
+      ],
+      "source": "İstanbul'un Fethi"
+    },
+    {
+      "id": "399a71e6cea6",
+      "difficulty": 7,
+      "tier": "Zor",
+      "category": "kişi",
+      "question": "Osmanlı'nın en ünlü mimarıdır. Yukarıdaki bilgi hangi şıkka karşılık gelir?",
+      "correct": "Mimar Sinan",
+      "options": [
+        "Denizli",
+        "Gaziantep",
+        "Tekirdağ",
+        "Mimar Sinan"
+      ],
+      "source": "static"
+    }
+  ]
+}

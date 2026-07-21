@@ -1,0 +1,16 @@
+{
+  "name": "Kim Milyoner Olmak İster?",
+  "short_name": "Milyoner",
+  "description": "15 soru, 3 joker, 10.000.000 TL. Gerçek televizyon yarışması deneyimi.",
+  "lang": "tr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a1628",
+  "theme_color": "#0a1628",
+  "icons": [
+    { "src": "assets/icons/icon-192.svg", "sizes": "192x192", "type": "image/svg+xml", "purpose": "any maskable" },
+    { "src": "assets/icons/icon-512.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
